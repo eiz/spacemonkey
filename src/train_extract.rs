@@ -1,9 +1,11 @@
 use std::{
-    fs,
+    collections::HashMap,
+    fs::{self},
     path::{Path, PathBuf},
 };
 
 use futures_util::StreamExt;
+use serde::{Deserialize, Serialize};
 
 use crate::openai;
 
@@ -50,4 +52,39 @@ pub async fn extract_topic_questions<P: AsRef<Path>, Q: AsRef<Path>>(
     .await;
     Ok(())
     //
+}
+
+#[derive(Serialize, Deserialize, Debug, Clone)]
+struct QuestionPair {
+    question: String,
+    answer: String,
+}
+
+pub fn dedup<P: AsRef<Path>, Q: AsRef<Path>>(in_dir: P, out_file: Q) -> anyhow::Result<()> {
+    let in_dir = in_dir.as_ref();
+    let out_file = out_file.as_ref();
+    let mut questions = HashMap::new();
+
+    for child in fs::read_dir(in_dir)? {
+        let child = child?;
+        let text = fs::read_to_string(child.path())?;
+        let mut question = None;
+
+        for line in text.lines() {
+            if line.starts_with("Q: ") {
+                question = Some(line[3..].to_owned());
+            }
+
+            if question.is_some() && line.starts_with("A: ") {
+                questions.insert(question.take().unwrap(), line[3..].to_owned());
+            }
+        }
+    }
+
+    let questions = questions
+        .into_iter()
+        .map(|(question, answer)| QuestionPair { question, answer })
+        .collect::<Vec<_>>();
+    fs::write(out_file, serde_json::to_string(&questions)?)?;
+    Ok(())
 }

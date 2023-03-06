@@ -13,6 +13,7 @@ mod train_extract;
 enum Command {
     Bot(BotArgs),
     GenerateQuestions(GenerateQuestionsArgs),
+    Dedup(DedupArgs),
 }
 
 #[derive(Args, Debug)]
@@ -27,6 +28,14 @@ struct GenerateQuestionsArgs {
     topics: PathBuf,
     #[arg(long, help = "output directory")]
     out_dir: PathBuf,
+}
+
+#[derive(Args, Debug)]
+struct DedupArgs {
+    #[arg(long, help = "input directory")]
+    input_dir: PathBuf,
+    #[arg(long, help = "output file")]
+    out_file: PathBuf,
 }
 
 #[derive(Parser, Debug)]
@@ -61,6 +70,8 @@ async fn main() -> anyhow::Result<()> {
         Command::GenerateQuestions(args) => {
             train_extract::extract_topic_questions(openai_key, args.topics, args.out_dir).await?
         }
+
+        Command::Dedup(args) => train_extract::dedup(args.input_dir, args.out_file)?,
     }
 
     Ok(())
