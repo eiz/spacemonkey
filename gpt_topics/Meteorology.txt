@@ -1,0 +1,119 @@
+Q: What is meteorology?
+A: Meteorology is the study of the Earth's atmosphere and its phenomena.
+
+Q: What is the difference between weather and climate?
+A: Weather refers to the short-term atmospheric conditions in a specific area, while climate refers to the long-term patterns of temperature, precipitation, and other atmospheric conditions in a region.
+
+Q: What is an air mass?
+A: An air mass is a large body of air with relatively uniform temperature, humidity, and pressure.
+
+Q: What is a front?
+A: A front is the boundary between two air masses with different temperatures, humidity levels, and pressures.
+
+Q: What is a high-pressure system?
+A: A high-pressure system is an area of the atmosphere where the air pressure is higher than the surrounding areas.
+
+Q: What is a low-pressure system?
+A: A low-pressure system is an area of the atmosphere where the air pressure is lower than the surrounding areas.
+
+Q: What is a hurricane?
+A: A hurricane is a tropical cyclone with sustained winds of at least 74 miles per hour.
+
+Q: What is a tornado?
+A: A tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground.
+
+Q: What is a thunderstorm?
+A: A thunderstorm is a storm that produces thunder and lightning, often accompanied by heavy rain, strong winds, and hail.
+
+Q: What is a drought?
+A: A drought is a prolonged period of abnormally low rainfall, resulting in a shortage of water.
+
+Q: What is the greenhouse effect?
+A: The greenhouse effect is the process by which certain gases in the Earth's atmosphere trap heat from the sun, causing the planet's temperature to rise.
+
+Q: What is global warming?
+A: Global warming is the long-term increase in the Earth's average temperature due to the greenhouse effect.
+
+Q: What is El Niño?
+A: El Niño is a climate pattern that occurs when the waters of the eastern Pacific Ocean warm, causing changes in atmospheric circulation and weather patterns around the world.
+
+Q: What is La Niña?
+A: La Niña is a climate pattern that occurs when the waters of the eastern Pacific Ocean cool, causing changes in atmospheric circulation and weather patterns around the world.
+
+Q: What is a weather balloon?
+A: A weather balloon is a balloon equipped with instruments that measure atmospheric conditions, such as temperature, pressure, and humidity.
+
+Q: What is a weather satellite?
+A: A weather satellite is a satellite that orbits the Earth and collects data on atmospheric conditions, such as cloud cover, temperature, and precipitation.
+
+Q: What is a weather radar?
+A: A weather radar is a device that uses radio waves to detect precipitation and other atmospheric conditions.
+
+Q: What is a weather station?
+A: A weather station is a facility equipped with instruments that measure atmospheric conditions, such as temperature, pressure, and humidity.
+
+Q: What is a barometer?
+A: A barometer is an instrument that measures atmospheric pressure.
+
+Q: What is a thermometer?
+A: A thermometer is an instrument that measures temperature.
+
+Q: What is a hygrometer?
+A: A hygrometer is an instrument that measures humidity.
+
+Q: What is a wind vane?
+A: A wind vane is an instrument that measures wind direction.
+
+Q: What is an anemometer?
+A: An anemometer is an instrument that measures wind speed.
+
+Q: What is a rain gauge?
+A: A rain gauge is an instrument that measures the amount of precipitation in a specific area.
+
+Q: What is a weather map?
+A: A weather map is a map that shows atmospheric conditions, such as temperature, pressure, and precipitation, in a specific area.
+
+Q: What is a weather forecast?
+A: A weather forecast is a prediction of future atmospheric conditions, such as temperature, pressure, and precipitation, in a specific area.
+
+Q: What is a climate model?
+A: A climate model is a computer program that simulates the Earth's climate system and predicts future climate patterns.
+
+Q: What is a climate record?
+A: A climate record is a collection of data on past climate patterns, such as temperature, precipitation, and atmospheric conditions.
+
+Q: What is the jet stream?
+A: The jet stream is a high-altitude, fast-moving air current that flows from west to east across the Earth's surface.
+
+Q: What is the Coriolis effect?
+A: The Coriolis effect is the apparent deflection of moving objects, such as air and water, caused by the Earth's rotation.
+
+Q: What is the dew point?
+A: The dew point is the temperature at which air becomes saturated with water vapor, causing dew to form.
+
+Q: What is the wind chill factor?
+A: The wind chill factor is the perceived decrease in temperature caused by the combination of wind and low air temperature.
+
+Q: What is the heat index?
+A: The heat index is the perceived increase in temperature caused by the combination of high air temperature and humidity.
+
+Q: What is the Beaufort scale?
+A: The Beaufort scale is a system for measuring wind speed based on visual observations of the effects of wind on land and sea.
+
+Q: What is the Fujita scale?
+A: The Fujita scale is a system for measuring the intensity of tornadoes based on the damage they cause.
+
+Q: What is the Saffir-Simpson scale?
+A: The Saffir-Simpson scale is a system for measuring the intensity of hurricanes based on their wind speed and potential for damage.
+
+Q: What is a weather alert?
+A: A weather alert is a warning issued by meteorologists to inform the public of potentially dangerous atmospheric conditions, such as severe storms, tornadoes, or hurricanes.
+
+Q: What is a weather emergency?
+A: A weather emergency is a situation in which atmospheric conditions pose an immediate threat to public safety, such as a tornado or hurricane.
+
+Q: What is a weather watch?
+A: A weather watch is a notification issued by meteorologists to inform the public of potentially dangerous atmospheric conditions, such as severe storms, tornadoes, or hurricanes, that may develop in a specific area.
+
+Q: What is a weather warning?
+A: A weather warning is a notification issued by meteorologists to inform the public of potentially dangerous atmospheric conditions, such as severe storms, tornadoes, or hurricanes, that are already occurring or imminent in a specific area.

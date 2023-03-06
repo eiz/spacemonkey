@@ -1,0 +1,137 @@
+Q: What is technology?
+A: Technology refers to the tools, techniques, and systems that are used to create, develop, and improve products and services.
+
+Q: What is the difference between hardware and software?
+A: Hardware refers to the physical components of a computer system, while software refers to the programs and applications that run on the hardware.
+
+Q: What is an operating system?
+A: An operating system is the software that manages a computer's hardware and provides a platform for other software applications to run on.
+
+Q: What is a computer virus?
+A: A computer virus is a type of malicious software that can infect a computer and cause damage to files, programs, and other data.
+
+Q: What is a firewall?
+A: A firewall is a security system that is designed to prevent unauthorized access to a computer or network.
+
+Q: What is a router?
+A: A router is a device that connects multiple computer networks together and routes data between them.
+
+Q: What is a modem?
+A: A modem is a device that connects a computer or other device to the internet.
+
+Q: What is cloud computing?
+A: Cloud computing is a technology that allows users to access and store data and applications over the internet, rather than on a local computer or server.
+
+Q: What is artificial intelligence?
+A: Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, and decision-making.
+
+Q: What is virtual reality?
+A: Virtual reality (VR) is a technology that allows users to experience a computer-generated environment as if it were real.
+
+Q: What is augmented reality?
+A: Augmented reality (AR) is a technology that overlays digital information onto the real world, typically through a smartphone or other mobile device.
+
+Q: What is the internet?
+A: The internet is a global network of interconnected computer networks that allows users to access and share information and communicate with each other.
+
+Q: What is a search engine?
+A: A search engine is a software program that searches a database of web pages for specific keywords or phrases and returns a list of results.
+
+Q: What is social media?
+A: Social media refers to websites and applications that allow users to create and share content and participate in social networking.
+
+Q: What is a smartphone?
+A: A smartphone is a mobile device that combines the functions of a phone, computer, camera, and other devices into one.
+
+Q: What is a tablet?
+A: A tablet is a portable computer that is designed to be used with a touchscreen interface.
+
+Q: What is a laptop?
+A: A laptop is a portable computer that is designed to be used on a desk or other flat surface.
+
+Q: What is a desktop computer?
+A: A desktop computer is a computer that is designed to be used on a desk or other stationary location.
+
+Q: What is a server?
+A: A server is a computer or other device that provides data or services to other computers or devices on a network.
+
+Q: What is a database?
+A: A database is a collection of data that is organized and stored in a way that allows it to be easily accessed, managed, and updated.
+
+Q: What is a programming language?
+A: A programming language is a set of instructions that are used to create software programs and applications.
+
+Q: What is HTML?
+A: HTML (Hypertext Markup Language) is a programming language that is used to create web pages and other online content.
+
+Q: What is CSS?
+A: CSS (Cascading Style Sheets) is a programming language that is used to control the visual appearance of web pages and other online content.
+
+Q: What is JavaScript?
+A: JavaScript is a programming language that is used to create interactive and dynamic web pages and other online content.
+
+Q: What is a cookie?
+A: A cookie is a small text file that is stored on a user's computer or other device by a website, typically used to remember user preferences and login information.
+
+Q: What is encryption?
+A: Encryption is the process of converting data into a code or cipher to prevent unauthorized access or theft.
+
+Q: What is a URL?
+A: A URL (Uniform Resource Locator) is a web address that is used to locate a specific web page or other online content.
+
+Q: What is a domain name?
+A: A domain name is the unique name that identifies a website on the internet.
+
+Q: What is a web browser?
+A: A web browser is a software program that is used to access and view web pages and other online content.
+
+Q: What is a plug-in?
+A: A plug-in is a software component that adds specific functionality to a web browser or other software application.
+
+Q: What is a download?
+A: A download is the process of transferring data or software from a remote server to a local computer or other device.
+
+Q: What is an upload?
+A: An upload is the process of transferring data or software from a local computer or other device to a remote server.
+
+Q: What is a file format?
+A: A file format is the specific way that data is stored and organized within a file, such as a document, image, or video.
+
+Q: What is a PDF?
+A: A PDF (Portable Document Format) is a file format that is used to create and share documents that can be viewed on any device.
+
+Q: What is a JPEG?
+A: A JPEG (Joint Photographic Experts Group) is a file format that is used to store and share digital images.
+
+Q: What is a GIF?
+A: A GIF (Graphics Interchange Format) is a file format that is used to store and share animated images.
+
+Q: What is a MP3?
+A: A MP3 is a file format that is used to store and share digital audio files.
+
+Q: What is a MP4?
+A: A MP4 is a file format that is used to store and share digital video files.
+
+Q: What is a QR code?
+A: A QR code (Quick Response code) is a two-dimensional barcode that can be scanned with a smartphone or other mobile device to access information or content.
+
+Q: What is a USB?
+A: A USB (Universal Serial Bus) is a type of connector that is used to connect devices to a computer or other device.
+
+Q: What is Bluetooth?
+A: Bluetooth is a wireless technology that is used to connect devices to each other over short distances.
+
+Q: What is Wi-Fi?
+A: Wi-Fi is a wireless technology that is used to connect devices to a network or the internet.
+
+Q: What is a GPS?
+A: A GPS (Global Positioning System) is a satellite-based navigation system that is used to determine the location of a device or user.
+
+Q: What is a drone?
+A: A drone is an unmanned aerial vehicle (UAV) that is controlled remotely and used for a variety of purposes, such as aerial photography, surveillance, and delivery.
+
+Q: What is a 3D printer?
+A: A 3D printer is a device that can create three-dimensional objects by layering materials such as plastic, metal, or ceramic.
+
+Q: What is a smart home?
+A: A smart home is a home that is equipped with internet-connected devices and systems that can be controlled remotely, such as lighting, heating, and security systems.

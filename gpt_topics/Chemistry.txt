@@ -1,0 +1,137 @@
+Q: What is chemistry?
+A: Chemistry is the scientific study of matter and its properties, structure, composition, and behavior.
+
+Q: What is matter?
+A: Matter is anything that has mass and takes up space.
+
+Q: What are the three states of matter?
+A: The three states of matter are solid, liquid, and gas.
+
+Q: What is an element?
+A: An element is a substance that cannot be broken down into simpler substances by chemical means.
+
+Q: How many elements are there?
+A: There are 118 known elements.
+
+Q: What is the smallest unit of an element?
+A: The smallest unit of an element is an atom.
+
+Q: What is an atom?
+A: An atom is the smallest unit of matter that retains the properties of an element.
+
+Q: What are the three subatomic particles that make up an atom?
+A: The three subatomic particles that make up an atom are protons, neutrons, and electrons.
+
+Q: What is the charge of a proton?
+A: The charge of a proton is positive.
+
+Q: What is the charge of an electron?
+A: The charge of an electron is negative.
+
+Q: What is the charge of a neutron?
+A: The charge of a neutron is neutral.
+
+Q: What is an ion?
+A: An ion is an atom or molecule that has an unequal number of protons and electrons, resulting in a net electrical charge.
+
+Q: What is a molecule?
+A: A molecule is a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound that can take part in a chemical reaction.
+
+Q: What is a compound?
+A: A compound is a substance made up of two or more different elements that are chemically bonded together.
+
+Q: What is a chemical reaction?
+A: A chemical reaction is a process that leads to the transformation of one set of chemical substances to another.
+
+Q: What is a chemical equation?
+A: A chemical equation is a symbolic representation of a chemical reaction in the form of symbols and formulas.
+
+Q: What is a reactant?
+A: A reactant is a substance that takes part in and undergoes change during a chemical reaction.
+
+Q: What is a product?
+A: A product is a substance that is formed as a result of a chemical reaction.
+
+Q: What is a catalyst?
+A: A catalyst is a substance that speeds up a chemical reaction without being consumed in the reaction.
+
+Q: What is an enzyme?
+A: An enzyme is a type of catalyst that speeds up chemical reactions in living organisms.
+
+Q: What is a pH scale?
+A: A pH scale is a measure of the acidity or basicity of a solution.
+
+Q: What is an acid?
+A: An acid is a substance that donates hydrogen ions (H+) to a solution.
+
+Q: What is a base?
+A: A base is a substance that accepts hydrogen ions (H+) in a solution.
+
+Q: What is a neutral solution?
+A: A neutral solution is a solution with a pH of 7, indicating that it is neither acidic nor basic.
+
+Q: What is an indicator?
+A: An indicator is a substance that changes color in response to a change in pH.
+
+Q: What is a salt?
+A: A salt is a compound formed by the reaction of an acid with a base, where the hydrogen ion of the acid is replaced by a metal ion or another positive ion.
+
+Q: What is a chemical bond?
+A: A chemical bond is a force of attraction between two atoms that holds them together in a molecule.
+
+Q: What is an ionic bond?
+A: An ionic bond is a type of chemical bond that involves the transfer of electrons from one atom to another.
+
+Q: What is a covalent bond?
+A: A covalent bond is a type of chemical bond that involves the sharing of electrons between two atoms.
+
+Q: What is a polar covalent bond?
+A: A polar covalent bond is a type of covalent bond where the electrons are shared unequally between the two atoms.
+
+Q: What is a nonpolar covalent bond?
+A: A nonpolar covalent bond is a type of covalent bond where the electrons are shared equally between the two atoms.
+
+Q: What is electronegativity?
+A: Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond.
+
+Q: What is a chemical formula?
+A: A chemical formula is a symbolic representation of a chemical compound using the chemical symbols of the elements present in the compound.
+
+Q: What is a mole?
+A: A mole is a unit of measurement used in chemistry to express amounts of a chemical substance.
+
+Q: What is Avogadro's number?
+A: Avogadro's number is the number of atoms, molecules, or ions in one mole of a substance, which is approximately 6.02 x 10^23.
+
+Q: What is stoichiometry?
+A: Stoichiometry is the calculation of the quantities of reactants and products in a chemical reaction.
+
+Q: What is a limiting reactant?
+A: A limiting reactant is the reactant that is completely consumed in a chemical reaction, limiting the amount of product that can be formed.
+
+Q: What is a theoretical yield?
+A: A theoretical yield is the maximum amount of product that can be obtained from a chemical reaction, based on the amount of limiting reactant present.
+
+Q: What is an actual yield?
+A: An actual yield is the amount of product that is actually obtained from a chemical reaction.
+
+Q: What is a percent yield?
+A: A percent yield is the ratio of the actual yield to the theoretical yield, expressed as a percentage.
+
+Q: What is a solution?
+A: A solution is a homogeneous mixture of two or more substances, where one substance is dissolved in another.
+
+Q: What is a solvent?
+A: A solvent is the substance in a solution that dissolves the other substance.
+
+Q: What is a solute?
+A: A solute is the substance in a solution that is dissolved by the solvent.
+
+Q: What is concentration?
+A: Concentration is the amount of solute present in a given amount of solution.
+
+Q: What is molarity?
+A: Molarity is a measure of concentration that expresses the number of moles of solute per liter of solution.
+
+Q: What is a buffer?
+A: A buffer is a solution that resists changes in pH when small amounts of acid or base are added to it.

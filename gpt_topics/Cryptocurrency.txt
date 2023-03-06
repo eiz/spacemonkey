@@ -1,0 +1,122 @@
+Q: What is cryptocurrency?
+A: Cryptocurrency is a digital or virtual currency that uses cryptography for security.
+
+Q: What is cryptography?
+A: Cryptography is the practice of secure communication in the presence of third parties.
+
+Q: Who invented Bitcoin?
+A: Bitcoin was invented by an unknown person or group of people using the name Satoshi Nakamoto.
+
+Q: What is Bitcoin?
+A: Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
+
+Q: How does Bitcoin work?
+A: Bitcoin works on a decentralized network called the blockchain, which is a public ledger of all transactions that have ever been executed.
+
+Q: What is blockchain?
+A: Blockchain is a decentralized, distributed ledger that records transactions on multiple computers.
+
+Q: What is a cryptocurrency wallet?
+A: A cryptocurrency wallet is a software program that stores private and public keys and interacts with various blockchain to enable users to send and receive digital currency and monitor their balance.
+
+Q: What is a private key?
+A: A private key is a secret code that allows a user to access their cryptocurrency wallet and make transactions.
+
+Q: What is a public key?
+A: A public key is a code that allows a user to receive cryptocurrency into their wallet.
+
+Q: What is a cryptocurrency exchange?
+A: A cryptocurrency exchange is a platform that allows users to buy, sell, or trade cryptocurrencies.
+
+Q: What is a cryptocurrency mining?
+A: Cryptocurrency mining is the process of verifying transactions on a blockchain and adding them to the public ledger.
+
+Q: What is a mining pool?
+A: A mining pool is a group of miners who combine their computing power to increase the chances of finding a block and earning rewards.
+
+Q: What is a block reward?
+A: A block reward is the amount of cryptocurrency given to a miner for successfully adding a block to the blockchain.
+
+Q: What is a fork in cryptocurrency?
+A: A fork in cryptocurrency is a change to the software of a blockchain that creates two separate versions of the blockchain.
+
+Q: What is a hard fork?
+A: A hard fork is a permanent divergence from the previous version of a blockchain, resulting in two separate blockchains.
+
+Q: What is a soft fork?
+A: A soft fork is a temporary divergence from the previous version of a blockchain, resulting in one blockchain with two different sets of rules.
+
+Q: What is a smart contract?
+A: A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code.
+
+Q: What is Ethereum?
+A: Ethereum is a decentralized, open-source blockchain with smart contract functionality.
+
+Q: What is a token?
+A: A token is a unit of value that represents a digital asset or utility on a blockchain.
+
+Q: What is an ICO?
+A: An ICO (Initial Coin Offering) is a fundraising method in which a company issues its own cryptocurrency in exchange for funding.
+
+Q: What is a whitepaper?
+A: A whitepaper is a document that outlines the technology, features, and potential uses of a cryptocurrency or blockchain project.
+
+Q: What is a pump and dump scheme?
+A: A pump and dump scheme is a type of investment fraud in which a group of investors artificially inflate the price of a cryptocurrency and then sell it at a profit.
+
+Q: What is a 51% attack?
+A: A 51% attack is an attack on a blockchain in which a single entity or group of entities controls more than 50% of the network's computing power.
+
+Q: What is a cold wallet?
+A: A cold wallet is a cryptocurrency wallet that is not connected to the internet, making it less vulnerable to hacking.
+
+Q: What is a hot wallet?
+A: A hot wallet is a cryptocurrency wallet that is connected to the internet, making it more vulnerable to hacking.
+
+Q: What is a paper wallet?
+A: A paper wallet is a physical copy of a cryptocurrency wallet's public and private keys.
+
+Q: What is a hardware wallet?
+A: A hardware wallet is a physical device that stores a user's private keys and can be used to securely store and manage cryptocurrency.
+
+Q: What is a multi-signature wallet?
+A: A multi-signature wallet is a cryptocurrency wallet that requires multiple signatures to authorize a transaction.
+
+Q: What is a stablecoin?
+A: A stablecoin is a cryptocurrency that is designed to maintain a stable value relative to a specific asset or basket of assets.
+
+Q: What is a decentralized application (dApp)?
+A: A decentralized application (dApp) is an application that runs on a blockchain network and is not controlled by a single entity.
+
+Q: What is a node?
+A: A node is a computer that is connected to a blockchain network and helps to maintain the network by verifying transactions and adding them to the blockchain.
+
+Q: What is a consensus algorithm?
+A: A consensus algorithm is a method used by a blockchain network to achieve agreement on the state of the blockchain.
+
+Q: What is proof of work (PoW)?
+A: Proof of work (PoW) is a consensus algorithm used by some blockchain networks that requires miners to solve complex mathematical problems to validate transactions and add them to the blockchain.
+
+Q: What is proof of stake (PoS)?
+A: Proof of stake (PoS) is a consensus algorithm used by some blockchain networks that requires users to hold a certain amount of cryptocurrency to validate transactions and add them to the blockchain.
+
+Q: What is a white hat hacker?
+A: A white hat hacker is a computer security expert who uses their skills for ethical purposes, such as testing the security of a blockchain network.
+
+Q: What is a black hat hacker?
+A: A black hat hacker is a computer security expert who uses their skills for illegal or unethical purposes, such as stealing cryptocurrency.
+
+Q: What is a grey hat hacker?
+A: A grey hat hacker is a computer security expert who uses their skills for both ethical and unethical purposes.
+
+Q: What is a public blockchain?
+A: A public blockchain is a blockchain network that is open to anyone and allows anyone to participate in the network.
+
+Q: What is a private blockchain?
+A: A private blockchain is a blockchain network that is restricted to a specific group of users and is not open to the public.
+
+Q: What is a permissioned blockchain?
+A: A permissioned blockchain is a blockchain network that requires users to be granted permission to participate in the network.
+
+Q: What is a permissionless blockchain?
+A: A permissionless blockchain is a blockchain network that is open to anyone and does not require users to be granted permission to participate in the network.

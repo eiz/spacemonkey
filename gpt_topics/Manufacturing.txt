@@ -1,0 +1,122 @@
+Q: What is manufacturing?
+A: Manufacturing is the process of converting raw materials into finished goods.
+
+Q: What are the different types of manufacturing?
+A: The different types of manufacturing include discrete manufacturing, process manufacturing, and mixed-mode manufacturing.
+
+Q: What is discrete manufacturing?
+A: Discrete manufacturing is the production of distinct items such as cars, toys, and electronics.
+
+Q: What is process manufacturing?
+A: Process manufacturing is the production of goods that are produced in bulk such as chemicals, food, and beverages.
+
+Q: What is mixed-mode manufacturing?
+A: Mixed-mode manufacturing is a combination of both discrete and process manufacturing.
+
+Q: What is lean manufacturing?
+A: Lean manufacturing is a production method that focuses on reducing waste and increasing efficiency.
+
+Q: What is Six Sigma?
+A: Six Sigma is a data-driven approach to quality control that aims to reduce defects and improve processes.
+
+Q: What is the difference between a product and a process?
+A: A product is the end result of a manufacturing process, while a process is the series of steps taken to create the product.
+
+Q: What is a supply chain?
+A: A supply chain is the network of businesses and individuals involved in the creation and delivery of a product.
+
+Q: What is a value chain?
+A: A value chain is the series of activities that a company performs in order to create value for its customers.
+
+Q: What is a production line?
+A: A production line is a series of machines and workers that are used to produce a product.
+
+Q: What is automation?
+A: Automation is the use of machines and technology to perform tasks that were previously done by humans.
+
+Q: What is a robot?
+A: A robot is a machine that is capable of performing tasks autonomously or with minimal human intervention.
+
+Q: What is a CNC machine?
+A: A CNC machine is a computer-controlled machine tool that is used to create complex parts and components.
+
+Q: What is a 3D printer?
+A: A 3D printer is a machine that creates three-dimensional objects by depositing layers of material.
+
+Q: What is a CAD software?
+A: CAD software is computer-aided design software that is used to create 2D and 3D models of products.
+
+Q: What is CAM software?
+A: CAM software is computer-aided manufacturing software that is used to control machines and tools in the manufacturing process.
+
+Q: What is a mold?
+A: A mold is a tool that is used to shape and form materials such as plastic and metal.
+
+Q: What is injection molding?
+A: Injection molding is a manufacturing process that involves injecting molten material into a mold to create a product.
+
+Q: What is extrusion?
+A: Extrusion is a manufacturing process that involves forcing material through a die to create a specific shape.
+
+Q: What is stamping?
+A: Stamping is a manufacturing process that involves cutting and shaping metal using a press and a die.
+
+Q: What is forging?
+A: Forging is a manufacturing process that involves shaping metal by heating it and then hammering it into shape.
+
+Q: What is casting?
+A: Casting is a manufacturing process that involves pouring molten material into a mold to create a product.
+
+Q: What is welding?
+A: Welding is a manufacturing process that involves joining two pieces of metal together using heat and pressure.
+
+Q: What is brazing?
+A: Brazing is a manufacturing process that involves joining two pieces of metal together using a filler metal that melts at a lower temperature than the base metal.
+
+Q: What is soldering?
+A: Soldering is a manufacturing process that involves joining two pieces of metal together using a filler metal that melts at a lower temperature than the base metal.
+
+Q: What is heat treating?
+A: Heat treating is a manufacturing process that involves heating and cooling metal to change its properties.
+
+Q: What is surface finishing?
+A: Surface finishing is a manufacturing process that involves treating the surface of a product to improve its appearance or performance.
+
+Q: What is quality control?
+A: Quality control is the process of ensuring that a product meets the required standards of quality.
+
+Q: What is ISO 9001?
+A: ISO 9001 is a quality management system that is used to ensure that a company's products and services meet the required standards of quality.
+
+Q: What is a defect?
+A: A defect is a flaw or imperfection in a product that makes it unusable or unsafe.
+
+Q: What is a non-conformance?
+A: A non-conformance is a deviation from the required standards of quality.
+
+Q: What is a corrective action?
+A: A corrective action is a process that is used to address a non-conformance and prevent it from happening again.
+
+Q: What is a preventive action?
+A: A preventive action is a process that is used to identify and address potential non-conformances before they occur.
+
+Q: What is a root cause analysis?
+A: A root cause analysis is a process that is used to identify the underlying cause of a non-conformance.
+
+Q: What is a continuous improvement?
+A: Continuous improvement is the ongoing process of identifying and implementing improvements to a company's products and processes.
+
+Q: What is a Kaizen event?
+A: A Kaizen event is a focused, short-term project that is used to improve a specific process or product.
+
+Q: What is a value stream map?
+A: A value stream map is a visual representation of the steps involved in creating a product, from raw materials to finished goods.
+
+Q: What is a Kanban system?
+A: A Kanban system is a lean manufacturing technique that uses visual signals to manage the flow of materials and products through the manufacturing process.
+
+Q: What is a Just-In-Time system?
+A: A Just-In-Time system is a lean manufacturing technique that aims to produce products only when they are needed, in the quantities that are needed.
+
+Q: What is a Poka-Yoke?
+A: A Poka-Yoke is a mistake-proofing technique that is used to prevent errors from occurring in the manufacturing process.

@@ -1,0 +1,128 @@
+Q: What is cryptography?
+A: Cryptography is the practice of securing communication from adversaries.
+
+Q: What is a plaintext?
+A: Plaintext is the original message that is to be encrypted.
+
+Q: What is a ciphertext?
+A: Ciphertext is the encrypted message that is produced after applying a cryptographic algorithm.
+
+Q: What is a key?
+A: A key is a secret value used in cryptography to encrypt and decrypt messages.
+
+Q: What is encryption?
+A: Encryption is the process of converting plaintext into ciphertext.
+
+Q: What is decryption?
+A: Decryption is the process of converting ciphertext into plaintext.
+
+Q: What is a symmetric key algorithm?
+A: A symmetric key algorithm is a type of encryption algorithm that uses the same key for both encryption and decryption.
+
+Q: What is an asymmetric key algorithm?
+A: An asymmetric key algorithm is a type of encryption algorithm that uses different keys for encryption and decryption.
+
+Q: What is a block cipher?
+A: A block cipher is an encryption algorithm that encrypts data in fixed-size blocks.
+
+Q: What is a stream cipher?
+A: A stream cipher is an encryption algorithm that encrypts data one bit or byte at a time.
+
+Q: What is a hash function?
+A: A hash function is a mathematical function that takes input data and produces a fixed-size output called a hash.
+
+Q: What is a digital signature?
+A: A digital signature is a mathematical technique used to verify the authenticity and integrity of a message.
+
+Q: What is a public key?
+A: A public key is a value used in asymmetric key cryptography that can be freely distributed.
+
+Q: What is a private key?
+A: A private key is a value used in asymmetric key cryptography that must be kept secret.
+
+Q: What is a certificate?
+A: A certificate is a digital document that contains information about the identity of a person or organization.
+
+Q: What is a certificate authority?
+A: A certificate authority is an organization that issues digital certificates.
+
+Q: What is a key exchange algorithm?
+A: A key exchange algorithm is a cryptographic algorithm used to securely exchange keys between two parties.
+
+Q: What is a digital envelope?
+A: A digital envelope is a technique used to encrypt a message using both symmetric and asymmetric key cryptography.
+
+Q: What is a one-time pad?
+A: A one-time pad is a type of encryption that uses a random key that is only used once.
+
+Q: What is steganography?
+A: Steganography is the practice of hiding a message within another message.
+
+Q: What is a brute-force attack?
+A: A brute-force attack is a type of attack where an attacker tries every possible key to decrypt a message.
+
+Q: What is a dictionary attack?
+A: A dictionary attack is a type of attack where an attacker tries common words and phrases to decrypt a message.
+
+Q: What is a rainbow table attack?
+A: A rainbow table attack is a type of attack where an attacker uses precomputed tables to quickly crack passwords.
+
+Q: What is a side-channel attack?
+A: A side-channel attack is a type of attack where an attacker uses information leaked by a cryptographic system to break it.
+
+Q: What is a man-in-the-middle attack?
+A: A man-in-the-middle attack is a type of attack where an attacker intercepts communication between two parties.
+
+Q: What is a replay attack?
+A: A replay attack is a type of attack where an attacker intercepts and resends a message to achieve a malicious goal.
+
+Q: What is a chosen plaintext attack?
+A: A chosen plaintext attack is a type of attack where an attacker can choose the plaintext to be encrypted.
+
+Q: What is a chosen ciphertext attack?
+A: A chosen ciphertext attack is a type of attack where an attacker can choose the ciphertext to be decrypted.
+
+Q: What is a birthday attack?
+A: A birthday attack is a type of attack where an attacker tries to find two messages with the same hash value.
+
+Q: What is a key length?
+A: A key length is the size of the key used in a cryptographic algorithm.
+
+Q: What is a key space?
+A: A key space is the set of all possible keys that can be used in a cryptographic algorithm.
+
+Q: What is a block size?
+A: A block size is the size of the block used in a block cipher.
+
+Q: What is a nonce?
+A: A nonce is a random number used only once in a cryptographic protocol.
+
+Q: What is a padding?
+A: Padding is the process of adding extra bits to a message to make it fit a specific block size.
+
+Q: What is a salt?
+A: A salt is a random value added to a password before hashing to make it more secure.
+
+Q: What is a digital certificate chain?
+A: A digital certificate chain is a series of digital certificates used to verify the authenticity of a message.
+
+Q: What is a digital certificate revocation list?
+A: A digital certificate revocation list is a list of digital certificates that have been revoked.
+
+Q: What is a digital certificate fingerprint?
+A: A digital certificate fingerprint is a unique identifier for a digital certificate.
+
+Q: What is a digital certificate trust model?
+A: A digital certificate trust model is a system used to establish trust in digital certificates.
+
+Q: What is a digital certificate pinning?
+A: Digital certificate pinning is a technique used to prevent man-in-the-middle attacks by associating a specific digital certificate with a specific website.
+
+Q: What is a digital certificate transparency?
+A: Digital certificate transparency is a system used to publicly log all digital certificates to prevent fraud.
+
+Q: What is a quantum computer?
+A: A quantum computer is a type of computer that uses quantum mechanics to perform calculations.
+
+Q: What is post-quantum cryptography?
+A: Post-quantum cryptography is a type of cryptography that is resistant to attacks by quantum computers.

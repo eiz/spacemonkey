@@ -1,0 +1,125 @@
+Q: What is Blockchain?
+A: Blockchain is a decentralized digital ledger that records transactions on multiple computers.
+
+Q: Who invented Blockchain?
+A: Blockchain was invented by an unknown person or group of people using the pseudonym Satoshi Nakamoto.
+
+Q: What is the purpose of Blockchain?
+A: The purpose of Blockchain is to provide a secure and transparent way to record and transfer data.
+
+Q: What is a block in Blockchain?
+A: A block in Blockchain is a collection of transactions that are verified and added to the Blockchain.
+
+Q: What is a node in Blockchain?
+A: A node in Blockchain is a computer that is connected to the network and helps to maintain the Blockchain.
+
+Q: What is a smart contract in Blockchain?
+A: A smart contract in Blockchain is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code.
+
+Q: What is a private Blockchain?
+A: A private Blockchain is a Blockchain that is only accessible to a specific group of people or organizations.
+
+Q: What is a public Blockchain?
+A: A public Blockchain is a Blockchain that is accessible to anyone who wants to participate in the network.
+
+Q: What is a permissioned Blockchain?
+A: A permissioned Blockchain is a Blockchain that requires permission to join and participate in the network.
+
+Q: What is a permissionless Blockchain?
+A: A permissionless Blockchain is a Blockchain that does not require permission to join and participate in the network.
+
+Q: What is a fork in Blockchain?
+A: A fork in Blockchain is a split in the Blockchain that occurs when two or more miners find a block at the same time.
+
+Q: What is a hard fork in Blockchain?
+A: A hard fork in Blockchain is a permanent split in the Blockchain that occurs when the rules of the network are changed.
+
+Q: What is a soft fork in Blockchain?
+A: A soft fork in Blockchain is a temporary split in the Blockchain that occurs when the rules of the network are tightened.
+
+Q: What is a hash in Blockchain?
+A: A hash in Blockchain is a unique digital fingerprint that is generated from a block of data.
+
+Q: What is a mining reward in Blockchain?
+A: A mining reward in Blockchain is the amount of cryptocurrency that a miner receives for successfully adding a block to the Blockchain.
+
+Q: What is a transaction fee in Blockchain?
+A: A transaction fee in Blockchain is a small amount of cryptocurrency that is paid by the sender to the miner for processing the transaction.
+
+Q: What is a consensus algorithm in Blockchain?
+A: A consensus algorithm in Blockchain is a method used to ensure that all nodes on the network agree on the state of the Blockchain.
+
+Q: What is proof of work in Blockchain?
+A: Proof of work in Blockchain is a consensus algorithm that requires miners to solve complex mathematical problems in order to add a block to the Blockchain.
+
+Q: What is proof of stake in Blockchain?
+A: Proof of stake in Blockchain is a consensus algorithm that requires users to hold a certain amount of cryptocurrency in order to participate in the network.
+
+Q: What is a 51% attack in Blockchain?
+A: A 51% attack in Blockchain is an attack on the network where a single entity controls more than 50% of the network's computing power.
+
+Q: What is a double spend in Blockchain?
+A: A double spend in Blockchain is a fraudulent transaction where the same cryptocurrency is spent twice.
+
+Q: What is a smart property in Blockchain?
+A: A smart property in Blockchain is a physical asset that is connected to the Blockchain and can be controlled using smart contracts.
+
+Q: What is a DAO in Blockchain?
+A: A DAO (Decentralized Autonomous Organization) in Blockchain is an organization that is run by rules encoded as computer programs on the Blockchain.
+
+Q: What is a DApp in Blockchain?
+A: A DApp (Decentralized Application) in Blockchain is an application that is built on top of a Blockchain and is decentralized.
+
+Q: What is a token in Blockchain?
+A: A token in Blockchain is a digital asset that is created and managed on a Blockchain.
+
+Q: What is a whitepaper in Blockchain?
+A: A whitepaper in Blockchain is a document that outlines the technical details and specifications of a Blockchain project.
+
+Q: What is a hard cap in Blockchain?
+A: A hard cap in Blockchain is the maximum amount of funds that a project can raise during an initial coin offering (ICO).
+
+Q: What is a soft cap in Blockchain?
+A: A soft cap in Blockchain is the minimum amount of funds that a project needs to raise during an initial coin offering (ICO).
+
+Q: What is a cold wallet in Blockchain?
+A: A cold wallet in Blockchain is a wallet that is not connected to the internet and is used to store cryptocurrency offline.
+
+Q: What is a hot wallet in Blockchain?
+A: A hot wallet in Blockchain is a wallet that is connected to the internet and is used to store cryptocurrency online.
+
+Q: What is a multi-signature wallet in Blockchain?
+A: A multi-signature wallet in Blockchain is a wallet that requires multiple signatures in order to authorize a transaction.
+
+Q: What is a private key in Blockchain?
+A: A private key in Blockchain is a secret code that is used to access and manage a user's cryptocurrency.
+
+Q: What is a public key in Blockchain?
+A: A public key in Blockchain is a code that is used to receive cryptocurrency from other users.
+
+Q: What is a seed phrase in Blockchain?
+A: A seed phrase in Blockchain is a series of words that are used to recover a user's private key in case it is lost or stolen.
+
+Q: What is a gas fee in Blockchain?
+A: A gas fee in Blockchain is a fee that is paid by the sender to the miner for processing a transaction on the Ethereum network.
+
+Q: What is an oracle in Blockchain?
+A: An oracle in Blockchain is a third-party service that provides data to smart contracts on the Blockchain.
+
+Q: What is a sidechain in Blockchain?
+A: A sidechain in Blockchain is a separate Blockchain that is connected to the main Blockchain and is used to process specific types of transactions.
+
+Q: What is a sharding in Blockchain?
+A: Sharding in Blockchain is a technique used to increase the scalability of the network by dividing the Blockchain into smaller parts.
+
+Q: What is a zero-knowledge proof in Blockchain?
+A: A zero-knowledge proof in Blockchain is a method used to prove that a statement is true without revealing any additional information.
+
+Q: What is a merkle tree in Blockchain?
+A: A merkle tree in Blockchain is a data structure used to efficiently verify the integrity of large amounts of data.
+
+Q: What is a non-fungible token in Blockchain?
+A: A non-fungible token in Blockchain is a unique digital asset that cannot be exchanged for another asset on a one-to-one basis.
+
+Q: What is a stablecoin in Blockchain?
+A: A stablecoin in Blockchain is a cryptocurrency that is pegged to the value of a stable asset, such as the US dollar.

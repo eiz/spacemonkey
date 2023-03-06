@@ -1,0 +1,140 @@
+Q: What is cybersecurity?
+A: Cybersecurity is the practice of protecting computers, servers, mobile devices, electronic systems, networks, and data from digital attacks, theft, and damage.
+
+Q: What are some common types of cyber attacks?
+A: Some common types of cyber attacks include phishing, malware, ransomware, denial-of-service attacks, and social engineering.
+
+Q: What is phishing?
+A: Phishing is a type of cyber attack where attackers send fraudulent emails or messages to trick people into giving away sensitive information, such as passwords or credit card numbers.
+
+Q: What is malware?
+A: Malware is a type of software designed to harm or exploit any computer system, network, or device.
+
+Q: What is ransomware?
+A: Ransomware is a type of malware that encrypts a victim's files and demands payment in exchange for the decryption key.
+
+Q: What is a denial-of-service (DoS) attack?
+A: A denial-of-service (DoS) attack is a type of cyber attack that floods a network or server with traffic to make it unavailable to users.
+
+Q: What is social engineering?
+A: Social engineering is a type of cyber attack that involves manipulating people into giving away sensitive information or performing actions that are not in their best interest.
+
+Q: What is a firewall?
+A: A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+Q: What is antivirus software?
+A: Antivirus software is a program designed to detect, prevent, and remove malware from a computer system.
+
+Q: What is encryption?
+A: Encryption is the process of converting data into a code to prevent unauthorized access.
+
+Q: What is a VPN?
+A: A VPN (Virtual Private Network) is a secure connection between a user's device and a private network, such as a company's network, over the internet.
+
+Q: What is two-factor authentication?
+A: Two-factor authentication is a security process that requires users to provide two forms of identification, such as a password and a fingerprint, to access a system or account.
+
+Q: What is a vulnerability?
+A: A vulnerability is a weakness in a computer system, network, or application that can be exploited by attackers to gain unauthorized access or cause damage.
+
+Q: What is a patch?
+A: A patch is a software update that fixes a vulnerability or bug in a computer system, network, or application.
+
+Q: What is a backup?
+A: A backup is a copy of important data or files that can be used to restore the original data in case of loss or damage.
+
+Q: What is a disaster recovery plan?
+A: A disaster recovery plan is a set of procedures and policies designed to help an organization recover from a cyber attack or other disaster.
+
+Q: What is a cyber incident response plan?
+A: A cyber incident response plan is a set of procedures and policies designed to help an organization respond to and recover from a cyber attack.
+
+Q: What is a security audit?
+A: A security audit is a process of evaluating an organization's security measures to identify vulnerabilities and recommend improvements.
+
+Q: What is a penetration test?
+A: A penetration test is a simulated cyber attack on an organization's computer system, network, or application to identify vulnerabilities and test the effectiveness of security measures.
+
+Q: What is a security policy?
+A: A security policy is a set of rules and guidelines that define how an organization's computer systems, networks, and data should be protected.
+
+Q: What is a security awareness training?
+A: Security awareness training is a program designed to educate employees about cybersecurity risks and best practices to prevent cyber attacks.
+
+Q: What is a cyber insurance?
+A: Cyber insurance is a type of insurance that provides financial protection to an organization in case of a cyber attack or data breach.
+
+Q: What is a data breach?
+A: A data breach is an incident where sensitive or confidential information is accessed, stolen, or exposed by unauthorized individuals.
+
+Q: What is a cybercrime?
+A: Cybercrime is a criminal activity that involves the use of computers, networks, or the internet to commit fraud, theft, or other illegal activities.
+
+Q: What is cyber espionage?
+A: Cyber espionage is a type of cyber attack where attackers steal sensitive information from a target organization or individual for political, economic, or military purposes.
+
+Q: What is cyber terrorism?
+A: Cyber terrorism is a type of cyber attack where attackers use computers, networks, or the internet to cause harm or damage to individuals, organizations, or governments.
+
+Q: What is cyber warfare?
+A: Cyber warfare is a type of warfare that involves the use of computers, networks, or the internet to attack or defend against other nations or organizations.
+
+Q: What is cyberbullying?
+A: Cyberbullying is a type of bullying that occurs online, through social media, messaging apps, or other digital platforms.
+
+Q: What is cyberstalking?
+A: Cyberstalking is a type of harassment that involves using the internet, social media, or other digital platforms to stalk or harass someone.
+
+Q: What is cyber ethics?
+A: Cyber ethics is a set of moral principles and values that guide the behavior of individuals and organizations in the digital world.
+
+Q: What is cyber hygiene?
+A: Cyber hygiene is a set of practices and habits that help individuals and organizations maintain good cybersecurity and protect against cyber attacks.
+
+Q: What is cyber resilience?
+A: Cyber resilience is the ability of an organization to withstand, respond to, and recover from cyber attacks or other cyber incidents.
+
+Q: What is cyber risk management?
+A: Cyber risk management is the process of identifying, assessing, and mitigating cyber risks to an organization's computer systems, networks, and data.
+
+Q: What is cyber law?
+A: Cyber law is a set of laws and regulations that govern the use of computers, networks, and the internet, and protect against cyber crimes and cyber attacks.
+
+Q: What is cyber sovereignty?
+A: Cyber sovereignty is the concept that each nation has the right to govern and regulate its own cyberspace, and protect its citizens and interests from cyber threats.
+
+Q: What is cyber ethics?
+A: Cyber ethics is a set of moral principles and values that guide the behavior of individuals and organizations in the digital world.
+
+Q: What is cyber hygiene?
+A: Cyber hygiene is a set of practices and habits that help individuals and organizations maintain good cybersecurity and protect against cyber attacks.
+
+Q: What is cyber resilience?
+A: Cyber resilience is the ability of an organization to withstand, respond to, and recover from cyber attacks or other cyber incidents.
+
+Q: What is cyber risk management?
+A: Cyber risk management is the process of identifying, assessing, and mitigating cyber risks to an organization's computer systems, networks, and data.
+
+Q: What is cyber law?
+A: Cyber law is a set of laws and regulations that govern the use of computers, networks, and the internet, and protect against cyber crimes and cyber attacks.
+
+Q: What is cyber sovereignty?
+A: Cyber sovereignty is the concept that each nation has the right to govern and regulate its own cyberspace, and protect its citizens and interests from cyber threats.
+
+Q: What is cyber ethics?
+A: Cyber ethics is a set of moral principles and values that guide the behavior of individuals and organizations in the digital world.
+
+Q: What is cyber hygiene?
+A: Cyber hygiene is a set of practices and habits that help individuals and organizations maintain good cybersecurity and protect against cyber attacks.
+
+Q: What is cyber resilience?
+A: Cyber resilience is the ability of an organization to withstand, respond to, and recover from cyber attacks or other cyber incidents.
+
+Q: What is cyber risk management?
+A: Cyber risk management is the process of identifying, assessing, and mitigating cyber risks to an organization's computer systems, networks, and data.
+
+Q: What is cyber law?
+A: Cyber law is a set of laws and regulations that govern the use of computers, networks, and the internet, and protect against cyber crimes and cyber attacks.
+
+Q: What is cyber sovereignty?
+A: Cyber sovereignty is the concept that each nation has the right to govern and regulate its own cyberspace, and protect its citizens and interests from cyber threats.

@@ -1,0 +1,131 @@
+Q: What is the value of pi?
+A: The value of pi is approximately 3.14159.
+
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides.
+
+Q: What is the formula for the area of a circle?
+A: The formula for the area of a circle is A = πr², where A is the area and r is the radius.
+
+Q: What is the formula for the volume of a sphere?
+A: The formula for the volume of a sphere is V = (4/3)πr³, where V is the volume and r is the radius.
+
+Q: What is the formula for the slope of a line?
+A: The formula for the slope of a line is m = (y₂ - y₁) / (x₂ - x₁), where m is the slope and (x₁, y₁) and (x₂, y₂) are two points on the line.
+
+Q: What is the formula for the perimeter of a rectangle?
+A: The formula for the perimeter of a rectangle is P = 2l + 2w, where P is the perimeter, l is the length, and w is the width.
+
+Q: What is the formula for the area of a triangle?
+A: The formula for the area of a triangle is A = (1/2)bh, where A is the area, b is the base, and h is the height.
+
+Q: What is the formula for the volume of a rectangular prism?
+A: The formula for the volume of a rectangular prism is V = lwh, where V is the volume, l is the length, w is the width, and h is the height.
+
+Q: What is the formula for the circumference of a circle?
+A: The formula for the circumference of a circle is C = 2πr, where C is the circumference and r is the radius.
+
+Q: What is the formula for the area of a rectangle?
+A: The formula for the area of a rectangle is A = lw, where A is the area, l is the length, and w is the width.
+
+Q: What is the formula for the volume of a cylinder?
+A: The formula for the volume of a cylinder is V = πr²h, where V is the volume, r is the radius, and h is the height.
+
+Q: What is the formula for the area of a trapezoid?
+A: The formula for the area of a trapezoid is A = (1/2)(b₁ + b₂)h, where A is the area, b₁ and b₂ are the lengths of the parallel sides, and h is the height.
+
+Q: What is the formula for the perimeter of a circle?
+A: There is no formula for the perimeter of a circle. The circumference is used instead.
+
+Q: What is the formula for the surface area of a cube?
+A: The formula for the surface area of a cube is SA = 6s², where SA is the surface area and s is the length of one side.
+
+Q: What is the formula for the volume of a cone?
+A: The formula for the volume of a cone is V = (1/3)πr²h, where V is the volume, r is the radius, and h is the height.
+
+Q: What is the formula for the area of a parallelogram?
+A: The formula for the area of a parallelogram is A = bh, where A is the area, b is the base, and h is the height.
+
+Q: What is the formula for the surface area of a rectangular prism?
+A: The formula for the surface area of a rectangular prism is SA = 2lw + 2lh + 2wh, where SA is the surface area, l is the length, w is the width, and h is the height.
+
+Q: What is the formula for the volume of a pyramid?
+A: The formula for the volume of a pyramid is V = (1/3)Bh, where V is the volume, B is the area of the base, and h is the height.
+
+Q: What is the formula for the area of a sector?
+A: The formula for the area of a sector is A = (θ/360)πr², where A is the area, θ is the central angle in degrees, and r is the radius.
+
+Q: What is the formula for the volume of a rectangular pyramid?
+A: The formula for the volume of a rectangular pyramid is V = (1/3)lwh, where V is the volume, l is the length, w is the width, and h is the height.
+
+Q: What is the formula for the surface area of a sphere?
+A: The formula for the surface area of a sphere is SA = 4πr², where SA is the surface area and r is the radius.
+
+Q: What is the formula for the volume of a torus?
+A: The formula for the volume of a torus is V = 2π²Rr², where V is the volume, R is the distance from the center of the torus to the center of the tube, and r is the radius of the tube.
+
+Q: What is the formula for the area of a circle sector?
+A: The formula for the area of a circle sector is A = (θ/360)πr², where A is the area, θ is the central angle in degrees, and r is the radius.
+
+Q: What is the formula for the surface area of a cone?
+A: The formula for the surface area of a cone is SA = πr² + πr√(r² + h²), where SA is the surface area, r is the radius, and h is the height.
+
+Q: What is the formula for the volume of a sphere segment?
+A: The formula for the volume of a sphere segment is V = (1/3)h(3r² + h²), where V is the volume, r is the radius, and h is the height.
+
+Q: What is the formula for the surface area of a cylinder?
+A: The formula for the surface area of a cylinder is SA = 2πr² + 2πrh, where SA is the surface area, r is the radius, and h is the height.
+
+Q: What is the formula for the volume of a frustum?
+A: The formula for the volume of a frustum is V = (1/3)πh(R² + Rr + r²), where V is the volume, h is the height, R is the radius of the larger base, and r is the radius of the smaller base.
+
+Q: What is the formula for the surface area of a torus?
+A: The formula for the surface area of a torus is SA = 4π²Rr, where SA is the surface area, R is the distance from the center of the torus to the center of the tube, and r is the radius of the tube.
+
+Q: What is the formula for the volume of a sphere cap?
+A: The formula for the volume of a sphere cap is V = (1/3)h(3a² + h²), where V is the volume, a is the radius of the base of the cap, and h is the height.
+
+Q: What is the formula for the surface area of a sphere segment?
+A: The formula for the surface area of a sphere segment is SA = 2πrh + πr², where SA is the surface area, r is the radius, and h is the height.
+
+Q: What is the formula for the volume of a sphere wedge?
+A: The formula for the volume of a sphere wedge is V = (2/3)πr³(θ/360), where V is the volume, r is the radius, and θ is the central angle in degrees.
+
+Q: What is the formula for the surface area of a sphere cap?
+A: The formula for the surface area of a sphere cap is SA = 2πrh + 2πa², where SA is the surface area, a is the radius of the base of the cap, and h is the height.
+
+Q: What is the formula for the volume of a sphere sector?
+A: The formula for the volume of a sphere sector is V = (2/3)πr³(θ/360), where V is the volume, r is the radius, and θ is the central angle in degrees.
+
+Q: What is the formula for the surface area of a sphere wedge?
+A: The formula for the surface area of a sphere wedge is SA = 2πr²(θ/360) + πrl, where SA is the surface area, r is the radius, θ is the central angle in degrees, and l is the slant height.
+
+Q: What is the formula for the volume of a sphere frustum?
+A: The formula for the volume of a sphere frustum is V = (1/3)πh(3R² + 3Rr + r²), where V is the volume, h is the height, R is the radius of the larger base, and r is the radius of the smaller base.
+
+Q: What is the formula for the surface area of a sphere sector?
+A: The formula for the surface area of a sphere sector is SA = 2πr²(θ/360) + πrℓ, where SA is the surface area, r is the radius, θ is the central angle in degrees, and ℓ is the slant height.
+
+Q: What is the formula for the volume of a sphere slice?
+A: The formula for the volume of a sphere slice is V = (1/6)πh(3a² + h²), where V is the volume, a is the radius of the base of the slice, and h is the height.
+
+Q: What is the formula for the surface area of a sphere slice?
+A: The formula for the surface area of a sphere slice is SA = 2πrh + πa² + πrℓ, where SA is the surface area, a is the radius of the base of the slice, r is the radius of the sphere, and ℓ is the slant height.
+
+Q: What is the formula for the volume of a sphere shell?
+A: The formula for the volume of a sphere shell is V = (4/3)π(R³ - r³), where V is the volume, R is the radius of the outer sphere, and r is the radius of the inner sphere.
+
+Q: What is the formula for the surface area of a sphere shell?
+A: The formula for the surface area of a sphere shell is SA = 4π(R² - r²), where SA is the surface area, R is the radius of the outer sphere, and r is the radius of the inner sphere.
+
+Q: What is the formula for the volume of a sphere ring?
+A: The formula for the volume of a sphere ring is V = (4/3)π(R³ - r³), where V is the volume, R is the radius of the outer sphere, and r is the radius of the inner sphere.
+
+Q: What is the formula for the surface area of a sphere ring?
+A: The formula for the surface area of a sphere ring is SA = 4π(R² - r²), where SA is the surface area, R is the radius of the outer sphere, and r is the radius of the inner sphere.
+
+Q: What is the formula for the volume of a sphere cap?
+A: The formula for the volume of a sphere cap is V = (1/3)πh(3a² + h²), where V is the volume, a is the radius of the base of the cap, and h is the height.
+
+Q: What is the formula for the surface area of a sphere cap?
+A: The formula for the surface area of a sphere cap is SA = 2πrh + 2πa², where SA is the surface area, a is the radius of the base of the cap, and h is the height.

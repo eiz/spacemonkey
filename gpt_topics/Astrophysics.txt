@@ -1,0 +1,116 @@
+Q: What is astrophysics?
+A: Astrophysics is the branch of astronomy that deals with the physical properties of celestial objects and the interaction between them.
+
+Q: What is a star?
+A: A star is a massive, luminous ball of plasma held together by gravity.
+
+Q: What is a galaxy?
+A: A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter.
+
+Q: What is dark matter?
+A: Dark matter is a hypothetical form of matter that is thought to account for approximately 85% of the matter in the universe.
+
+Q: What is dark energy?
+A: Dark energy is a hypothetical form of energy that is thought to permeate all of space and is responsible for the accelerating expansion of the universe.
+
+Q: What is a black hole?
+A: A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape.
+
+Q: What is a supernova?
+A: A supernova is a powerful and luminous explosion that occurs when a star has exhausted its fuel and collapses.
+
+Q: What is a neutron star?
+A: A neutron star is a type of compact star that is composed almost entirely of neutrons.
+
+Q: What is a pulsar?
+A: A pulsar is a highly magnetized, rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles.
+
+Q: What is a quasar?
+A: A quasar is an extremely luminous active galactic nucleus that is powered by a supermassive black hole at the center of a galaxy.
+
+Q: What is cosmic microwave background radiation?
+A: Cosmic microwave background radiation is the thermal radiation left over from the Big Bang that permeates all of space.
+
+Q: What is the Big Bang theory?
+A: The Big Bang theory is the prevailing cosmological model that describes the origin and evolution of the universe.
+
+Q: What is the age of the universe?
+A: The age of the universe is approximately 13.8 billion years.
+
+Q: What is the Hubble constant?
+A: The Hubble constant is a measure of the rate of expansion of the universe.
+
+Q: What is redshift?
+A: Redshift is a phenomenon in which light is shifted towards longer wavelengths, indicating that the object emitting the light is moving away from the observer.
+
+Q: What is blueshift?
+A: Blueshift is a phenomenon in which light is shifted towards shorter wavelengths, indicating that the object emitting the light is moving towards the observer.
+
+Q: What is the Doppler effect?
+A: The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer who is moving relative to the source of the wave.
+
+Q: What is the Schwarzschild radius?
+A: The Schwarzschild radius is the radius of a non-rotating black hole at which the escape velocity equals the speed of light.
+
+Q: What is the event horizon?
+A: The event horizon is the boundary around a black hole beyond which nothing can escape.
+
+Q: What is a white dwarf?
+A: A white dwarf is a small, dense star that is composed mostly of electron-degenerate matter.
+
+Q: What is a red giant?
+A: A red giant is a luminous giant star that has exhausted the hydrogen fuel in its core and has begun fusing helium.
+
+Q: What is a brown dwarf?
+A: A brown dwarf is a substellar object that is too small to sustain nuclear fusion in its core and is therefore not a star.
+
+Q: What is a planetary nebula?
+A: A planetary nebula is a type of emission nebula that is formed when a star sheds its outer layers and exposes its hot, luminous core.
+
+Q: What is a supernova remnant?
+A: A supernova remnant is the expanding shell of gas and dust that is left behind after a supernova explosion.
+
+Q: What is a gamma-ray burst?
+A: A gamma-ray burst is a highly energetic explosion that is thought to be caused by the collapse of a massive star or the merger of two neutron stars.
+
+Q: What is a gravitational wave?
+A: A gravitational wave is a ripple in the fabric of spacetime that is caused by the acceleration of massive objects.
+
+Q: What is a magnetar?
+A: A magnetar is a type of neutron star that has an extremely strong magnetic field.
+
+Q: What is a cosmic ray?
+A: A cosmic ray is a high-energy particle that originates from outside the Earth's atmosphere.
+
+Q: What is a heliosphere?
+A: A heliosphere is the region of space that is influenced by the solar wind and the Sun's magnetic field.
+
+Q: What is a coronal mass ejection?
+A: A coronal mass ejection is a massive burst of plasma and magnetic field that is ejected from the Sun's corona.
+
+Q: What is a solar flare?
+A: A solar flare is a sudden and intense burst of radiation that is emitted from the Sun's surface.
+
+Q: What is a sunspot?
+A: A sunspot is a dark, cooler region on the surface of the Sun that is caused by magnetic activity.
+
+Q: What is a Cepheid variable?
+A: A Cepheid variable is a type of star that pulsates in brightness and is used as a standard candle to measure distances in the universe.
+
+Q: What is a Type Ia supernova?
+A: A Type Ia supernova is a type of supernova that occurs in a binary star system and is used as a standard candle to measure distances in the universe.
+
+Q: What is a gravitational lens?
+A: A gravitational lens is a massive object that bends and magnifies the light from more distant objects behind it.
+
+Q: What is a galaxy cluster?
+A: A galaxy cluster is a group of galaxies that are bound together by gravity.
+
+Q: What is a supercluster?
+A: A supercluster is a large group of galaxy clusters that are gravitationally bound together.
+
+Q: What is a void?
+A: A void is a region of space that contains few or no galaxies.
+
+Q: What is the cosmic web?
+A: The cosmic web is the large-scale structure of the universe that is composed of galaxy clusters, filaments, and voids.

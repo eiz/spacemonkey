@@ -1,0 +1,101 @@
+Q: What is climate science?
+A: Climate science is the study of the Earth's climate system, including its physical, chemical, and biological components, and how they interact with each other.
+
+Q: What is the difference between weather and climate?
+A: Weather refers to short-term atmospheric conditions, while climate refers to long-term patterns of temperature, precipitation, and other weather-related variables.
+
+Q: What is global warming?
+A: Global warming refers to the long-term increase in Earth's average surface temperature, primarily due to the buildup of greenhouse gases in the atmosphere.
+
+Q: What are greenhouse gases?
+A: Greenhouse gases are gases that trap heat in the Earth's atmosphere, such as carbon dioxide, methane, and water vapor.
+
+Q: What is the greenhouse effect?
+A: The greenhouse effect is the process by which greenhouse gases trap heat in the Earth's atmosphere, warming the planet's surface.
+
+Q: What is the main cause of global warming?
+A: The main cause of global warming is the burning of fossil fuels, which releases large amounts of carbon dioxide and other greenhouse gases into the atmosphere.
+
+Q: What is the Paris Agreement?
+A: The Paris Agreement is an international treaty signed in 2015 that aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels, and to pursue efforts to limit the temperature increase to 1.5 degrees Celsius.
+
+Q: What is the Intergovernmental Panel on Climate Change (IPCC)?
+A: The IPCC is a scientific body established by the United Nations to provide policymakers with regular assessments of the scientific basis of climate change, its impacts, and future risks, as well as options for adaptation and mitigation.
+
+Q: What is the difference between adaptation and mitigation?
+A: Adaptation refers to actions taken to reduce the negative impacts of climate change, while mitigation refers to actions taken to reduce greenhouse gas emissions and slow the pace of climate change.
+
+Q: What is sea level rise?
+A: Sea level rise is the long-term increase in the average level of the Earth's oceans, primarily due to the melting of glaciers and ice sheets and the thermal expansion of seawater.
+
+Q: What is ocean acidification?
+A: Ocean acidification is the process by which the pH of the Earth's oceans decreases due to the absorption of carbon dioxide from the atmosphere, which can have negative impacts on marine ecosystems.
+
+Q: What is the ozone layer?
+A: The ozone layer is a region of the Earth's stratosphere that contains a high concentration of ozone, which absorbs most of the sun's ultraviolet radiation and protects life on Earth from harmful effects.
+
+Q: What is the Montreal Protocol?
+A: The Montreal Protocol is an international treaty signed in 1987 that aims to phase out the production and consumption of ozone-depleting substances, such as chlorofluorocarbons (CFCs).
+
+Q: What is the Kyoto Protocol?
+A: The Kyoto Protocol is an international treaty signed in 1997 that aimed to reduce greenhouse gas emissions in developed countries by an average of 5.2% below 1990 levels by 2012.
+
+Q: What is the Clean Air Act?
+A: The Clean Air Act is a U.S. federal law that regulates air emissions from stationary and mobile sources, including power plants, factories, and vehicles, to protect public health and the environment.
+
+Q: What is carbon capture and storage?
+A: Carbon capture and storage (CCS) is a technology that captures carbon dioxide emissions from power plants and other industrial sources and stores them underground or in other long-term storage facilities.
+
+Q: What is renewable energy?
+A: Renewable energy is energy that comes from sources that are replenished naturally over time, such as solar, wind, hydro, geothermal, and biomass energy.
+
+Q: What is energy efficiency?
+A: Energy efficiency refers to the use of technology and practices that reduce the amount of energy needed to provide goods and services, such as using LED light bulbs or improving building insulation.
+
+Q: What is the role of forests in climate change?
+A: Forests play an important role in climate change by absorbing carbon dioxide from the atmosphere through photosynthesis and storing it in biomass and soil.
+
+Q: What is the carbon cycle?
+A: The carbon cycle is the process by which carbon moves between the atmosphere, oceans, land, and living organisms, through processes such as photosynthesis, respiration, and decomposition.
+
+Q: What is the role of the sun in climate change?
+A: The sun is the primary source of energy for the Earth's climate system, but its variability over time has only a small effect on the long-term warming trend observed in recent decades.
+
+Q: What is the role of aerosols in climate change?
+A: Aerosols are tiny particles in the atmosphere that can have both cooling and warming effects on the Earth's climate, depending on their composition and location.
+
+Q: What is the role of clouds in climate change?
+A: Clouds can have both cooling and warming effects on the Earth's climate, depending on their altitude, thickness, and composition.
+
+Q: What is the role of the ocean in climate change?
+A: The ocean plays an important role in climate change by absorbing large amounts of heat and carbon dioxide from the atmosphere, but this can also have negative impacts on marine ecosystems.
+
+Q: What is the role of permafrost in climate change?
+A: Permafrost is frozen soil that contains large amounts of organic matter, which can release greenhouse gases such as methane and carbon dioxide when it thaws due to warming temperatures.
+
+Q: What is the role of feedback loops in climate change?
+A: Feedback loops are processes in the Earth's climate system that can amplify or dampen the effects of external factors, such as greenhouse gas emissions, on the climate.
+
+Q: What is the role of tipping points in climate change?
+A: Tipping points are thresholds in the Earth's climate system beyond which a small change can trigger a large and irreversible response, such as the melting of the Greenland ice sheet.
+
+Q: What is the role of climate models in climate science?
+A: Climate models are computer simulations of the Earth's climate system that are used to understand past and future climate change, and to test the effectiveness of different adaptation and mitigation strategies.
+
+Q: What is the role of climate policy in addressing climate change?
+A: Climate policy refers to the set of laws, regulations, and incentives that governments and other actors use to address climate change, such as carbon pricing, renewable energy targets, and emissions standards.
+
+Q: What is the role of international cooperation in addressing climate change?
+A: International cooperation is essential for addressing climate change, as it requires coordinated action by all countries to reduce greenhouse gas emissions and adapt to the impacts of climate change.
+
+Q: What is the role of individual action in addressing climate change?
+A: Individual action is important for addressing climate change, as it can help reduce greenhouse gas emissions and raise awareness about the need for collective action and policy change.
+
+Q: What is the role of education in addressing climate change?
+A: Education is important for addressing climate change, as it can help raise awareness about the causes and impacts of climate change, and promote sustainable behaviors and policies.
+
+Q: What is the role of innovation in addressing climate change?
+A: Innovation is important for addressing climate change, as it can help develop new technologies and practices that reduce greenhouse gas emissions and increase resilience to the impacts of climate change.
+
+Q: What is the role of equity in addressing climate change?
+A: Equity is important for addressing climate change, as it requires ensuring that the costs and benefits of climate action are distributed fairly among different groups and regions, and that vulnerable populations are protected.

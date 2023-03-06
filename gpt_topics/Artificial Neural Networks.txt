@@ -1,0 +1,116 @@
+Q: What is an artificial neural network?
+A: An artificial neural network is a computational model that is inspired by the structure and function of the human brain.
+
+Q: What is the purpose of an artificial neural network?
+A: The purpose of an artificial neural network is to learn from data and make predictions or decisions based on that data.
+
+Q: What are the basic components of an artificial neural network?
+A: The basic components of an artificial neural network are neurons, weights, biases, and activation functions.
+
+Q: What is a neuron in an artificial neural network?
+A: A neuron in an artificial neural network is a mathematical function that receives input, processes it, and produces output.
+
+Q: What are weights in an artificial neural network?
+A: Weights in an artificial neural network are parameters that determine the strength of the connections between neurons.
+
+Q: What are biases in an artificial neural network?
+A: Biases in an artificial neural network are parameters that determine the threshold at which a neuron fires.
+
+Q: What is an activation function in an artificial neural network?
+A: An activation function in an artificial neural network is a mathematical function that determines the output of a neuron based on its input.
+
+Q: What is a feedforward neural network?
+A: A feedforward neural network is a type of artificial neural network where the information flows in one direction, from input to output.
+
+Q: What is a recurrent neural network?
+A: A recurrent neural network is a type of artificial neural network where the information can flow in cycles, allowing the network to process sequences of data.
+
+Q: What is backpropagation?
+A: Backpropagation is a supervised learning algorithm used to train artificial neural networks by adjusting the weights and biases based on the error between the predicted output and the actual output.
+
+Q: What is unsupervised learning?
+A: Unsupervised learning is a type of machine learning where the model learns from unlabeled data without any specific guidance or feedback.
+
+Q: What is supervised learning?
+A: Supervised learning is a type of machine learning where the model learns from labeled data with specific feedback or guidance.
+
+Q: What is reinforcement learning?
+A: Reinforcement learning is a type of machine learning where the model learns by interacting with an environment and receiving rewards or punishments based on its actions.
+
+Q: What is deep learning?
+A: Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers to learn from data.
+
+Q: What is a convolutional neural network?
+A: A convolutional neural network is a type of artificial neural network that is designed to process data with a grid-like topology, such as images.
+
+Q: What is a recurrent neural network used for?
+A: A recurrent neural network is used for processing sequences of data, such as time series or natural language.
+
+Q: What is a generative adversarial network?
+A: A generative adversarial network is a type of artificial neural network that consists of two networks, a generator and a discriminator, that are trained together to generate new data that is similar to the training data.
+
+Q: What is transfer learning?
+A: Transfer learning is a technique in machine learning where a model trained on one task is reused as a starting point for a new task.
+
+Q: What is overfitting?
+A: Overfitting is a common problem in machine learning where a model is too complex and fits the training data too closely, resulting in poor performance on new data.
+
+Q: What is underfitting?
+A: Underfitting is a common problem in machine learning where a model is too simple and does not capture the complexity of the data, resulting in poor performance on both the training and new data.
+
+Q: What is regularization?
+A: Regularization is a technique used in machine learning to prevent overfitting by adding a penalty term to the loss function that encourages simpler models.
+
+Q: What is a hyperparameter?
+A: A hyperparameter is a parameter that is set before training a model and cannot be learned from the data, such as the learning rate or the number of hidden layers.
+
+Q: What is a learning rate?
+A: The learning rate is a hyperparameter that determines how much the weights and biases are adjusted during training.
+
+Q: What is a loss function?
+A: A loss function is a mathematical function that measures the difference between the predicted output and the actual output.
+
+Q: What is a cost function?
+A: A cost function is a mathematical function that measures the difference between the predicted output and the actual output, plus any regularization terms.
+
+Q: What is a gradient?
+A: A gradient is a vector that points in the direction of the steepest increase in a function.
+
+Q: What is gradient descent?
+A: Gradient descent is an optimization algorithm used to minimize the loss function by iteratively adjusting the weights and biases in the direction of the negative gradient.
+
+Q: What is stochastic gradient descent?
+A: Stochastic gradient descent is a variant of gradient descent that randomly selects a subset of the training data for each iteration, making it faster and more scalable.
+
+Q: What is batch normalization?
+A: Batch normalization is a technique used in deep learning to improve the stability and performance of artificial neural networks by normalizing the inputs to each layer.
+
+Q: What is dropout?
+A: Dropout is a regularization technique used in deep learning to prevent overfitting by randomly dropping out some of the neurons during training.
+
+Q: What is a confusion matrix?
+A: A confusion matrix is a table that summarizes the performance of a classification model by comparing the predicted labels to the actual labels.
+
+Q: What is precision?
+A: Precision is a metric used to evaluate the performance of a classification model that measures the proportion of true positives among all the positive predictions.
+
+Q: What is recall?
+A: Recall is a metric used to evaluate the performance of a classification model that measures the proportion of true positives among all the actual positives.
+
+Q: What is F1 score?
+A: F1 score is a metric used to evaluate the performance of a classification model that combines precision and recall into a single score.
+
+Q: What is a ROC curve?
+A: A ROC curve is a graphical representation of the performance of a binary classification model that plots the true positive rate against the false positive rate for different threshold values.
+
+Q: What is an AUC score?
+A: An AUC score is a metric used to evaluate the performance of a binary classification model that measures the area under the ROC curve.
+
+Q: What is a learning curve?
+A: A learning curve is a graphical representation of the performance of a machine learning model as a function of the amount of training data.
+
+Q: What is a validation curve?
+A: A validation curve is a graphical representation of the performance of a machine learning model as a function of a hyperparameter.
+
+Q: What is early stopping?
+A: Early stopping is a technique used in machine learning to prevent overfitting by stopping the training process when the performance on a validation set stops improving.

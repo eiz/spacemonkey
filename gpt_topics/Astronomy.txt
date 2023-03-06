@@ -1,0 +1,137 @@
+Q: What is astronomy?
+A: Astronomy is the study of celestial objects, such as stars, planets, and galaxies.
+
+Q: What is a star?
+A: A star is a luminous ball of gas, mostly hydrogen and helium, that generates energy through nuclear fusion.
+
+Q: What is a planet?
+A: A planet is a celestial body that orbits a star, is spherical in shape, and has cleared its orbit of other debris.
+
+Q: What is a galaxy?
+A: A galaxy is a large group of stars, gas, and dust held together by gravity.
+
+Q: What is the Milky Way?
+A: The Milky Way is the galaxy in which our solar system resides.
+
+Q: What is a black hole?
+A: A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape.
+
+Q: What is a supernova?
+A: A supernova is a powerful explosion that occurs when a star runs out of fuel and collapses.
+
+Q: What is a comet?
+A: A comet is a small, icy object that orbits the sun and develops a tail as it approaches the sun.
+
+Q: What is an asteroid?
+A: An asteroid is a small, rocky object that orbits the sun.
+
+Q: What is a meteor?
+A: A meteor is a small piece of debris that burns up in Earth's atmosphere, also known as a shooting star.
+
+Q: What is a meteorite?
+A: A meteorite is a meteor that survives its passage through Earth's atmosphere and lands on the surface.
+
+Q: What is the difference between a meteor and a meteorite?
+A: A meteor is a small piece of debris that burns up in Earth's atmosphere, while a meteorite is a meteor that survives its passage through Earth's atmosphere and lands on the surface.
+
+Q: What is the difference between a meteor and a comet?
+A: A meteor is a small piece of debris that burns up in Earth's atmosphere, while a comet is a small, icy object that develops a tail as it approaches the sun.
+
+Q: What is the difference between a planet and a dwarf planet?
+A: A planet is a celestial body that orbits a star, is spherical in shape, and has cleared its orbit of other debris, while a dwarf planet is a celestial body that orbits a star and is spherical in shape, but has not cleared its orbit of other debris.
+
+Q: What is the difference between a star and a planet?
+A: A star is a luminous ball of gas that generates energy through nuclear fusion, while a planet is a celestial body that orbits a star and is not capable of generating its own energy.
+
+Q: What is the difference between a galaxy and a star cluster?
+A: A galaxy is a large group of stars, gas, and dust held together by gravity, while a star cluster is a smaller group of stars held together by gravity.
+
+Q: What is the difference between a solar eclipse and a lunar eclipse?
+A: A solar eclipse occurs when the moon passes between the sun and Earth, blocking the sun's light, while a lunar eclipse occurs when Earth passes between the sun and the moon, casting a shadow on the moon.
+
+Q: What is the difference between a waxing moon and a waning moon?
+A: A waxing moon is a moon that is increasing in illumination, while a waning moon is a moon that is decreasing in illumination.
+
+Q: What is the difference between a full moon and a new moon?
+A: A full moon is a moon that is fully illuminated by the sun, while a new moon is a moon that is not illuminated by the sun.
+
+Q: What is the difference between a constellation and an asterism?
+A: A constellation is a group of stars that form a recognizable pattern, while an asterism is a smaller group of stars that form a recognizable pattern within a constellation.
+
+Q: What is the difference between a telescope and a binoculars?
+A: A telescope is an instrument used to observe distant objects, while binoculars are a pair of handheld optical devices used for observing distant objects.
+
+Q: What is the difference between a refracting telescope and a reflecting telescope?
+A: A refracting telescope uses lenses to bend and focus light, while a reflecting telescope uses mirrors to reflect and focus light.
+
+Q: What is the difference between a radio telescope and an optical telescope?
+A: A radio telescope uses radio waves to observe celestial objects, while an optical telescope uses visible light to observe celestial objects.
+
+Q: What is the difference between a geocentric model and a heliocentric model?
+A: A geocentric model is a model of the universe in which Earth is at the center, while a heliocentric model is a model of the universe in which the sun is at the center.
+
+Q: What is the difference between a light year and a parsec?
+A: A light year is the distance that light travels in one year, while a parsec is a unit of distance equal to 3.26 light years.
+
+Q: What is the difference between a nebula and a galaxy?
+A: A nebula is a cloud of gas and dust in space, while a galaxy is a large group of stars, gas, and dust held together by gravity.
+
+Q: What is the difference between a red giant and a white dwarf?
+A: A red giant is a star that has exhausted its hydrogen fuel and expanded in size, while a white dwarf is a small, dense star that has exhausted its nuclear fuel.
+
+Q: What is the difference between a solar flare and a coronal mass ejection?
+A: A solar flare is a sudden, intense burst of radiation from the sun, while a coronal mass ejection is a massive release of plasma and magnetic fields from the sun's corona.
+
+Q: What is the difference between a terrestrial planet and a gas giant?
+A: A terrestrial planet is a planet that is small, rocky, and close to the sun, while a gas giant is a planet that is large, gaseous, and far from the sun.
+
+Q: What is the difference between an exoplanet and a planet?
+A: An exoplanet is a planet that orbits a star outside of our solar system, while a planet is a celestial body that orbits a star.
+
+Q: What is the difference between a solar system and a galaxy?
+A: A solar system is a group of planets and other objects that orbit a star, while a galaxy is a large group of stars, gas, and dust held together by gravity.
+
+Q: What is the difference between a lunar month and a sidereal month?
+A: A lunar month is the time it takes for the moon to complete one cycle of phases, while a sidereal month is the time it takes for the moon to return to the same position relative to the stars.
+
+Q: What is the difference between a zenith and a nadir?
+A: The zenith is the point directly overhead, while the nadir is the point directly below.
+
+Q: What is the difference between a perigee and an apogee?
+A: The perigee is the point in the moon's orbit when it is closest to Earth, while the apogee is the point in the moon's orbit when it is farthest from Earth.
+
+Q: What is the difference between a solstice and an equinox?
+A: A solstice is the point in Earth's orbit when the sun is farthest north or south of the equator, while an equinox is the point in Earth's orbit when the sun is directly over the equator.
+
+Q: What is the difference between a redshift and a blueshift?
+A: A redshift is a shift in the wavelength of light towards the red end of the spectrum, indicating that an object is moving away, while a blueshift is a shift in the wavelength of light towards the blue end of the spectrum, indicating that an object is moving closer.
+
+Q: What is the difference between a circumpolar star and a non-circumpolar star?
+A: A circumpolar star is a star that never sets below the horizon, while a non-circumpolar star is a star that rises and sets like the sun.
+
+Q: What is the difference between a zenithal hourly rate and a meteor shower?
+A: A zenithal hourly rate is the number of meteors that would be visible in an hour if the radiant of a meteor shower were directly overhead, while a meteor shower is a celestial event in which a large number of meteors are visible in a short period of time.
+
+Q: What is the difference between a lunar eclipse and a blood moon?
+A: A lunar eclipse occurs when Earth passes between the sun and the moon, casting a shadow on the moon, while a blood moon is a lunar eclipse in which the moon appears reddish in color.
+
+Q: What is the difference between a solar eclipse and a total solar eclipse?
+A: A solar eclipse occurs when the moon passes between the sun and Earth, blocking the sun's light, while a total solar eclipse is a solar eclipse in which the moon completely blocks the sun's light.
+
+Q: What is the difference between a meteor shower and a comet?
+A: A meteor shower is a celestial event in which a large number of meteors are visible in a short period of time, while a comet is a small, icy object that develops a tail as it approaches the sun.
+
+Q: What is the difference between a meteor shower and a shooting star?
+A: A meteor shower is a celestial event in which a large number of meteors are visible in a short period of time, while a shooting star is a single meteor that appears to streak across the sky.
+
+Q: What is the difference between a solar wind and a solar flare?
+A: A solar wind is a stream of charged particles that flows from the sun, while a solar flare is a sudden, intense burst of radiation from the sun.
+
+Q: What is the difference between a lunar month and a solar month?
+A: A lunar month is the time it takes for the moon to complete one cycle of phases, while a solar month is the time it takes for the sun to return to the same position relative to the stars.
+
+Q: What is the difference between a solar day and a sidereal day?
+A: A solar day is the time it takes for the sun to return to the same position in the sky, while a sidereal day is the time it takes for Earth to rotate once on its axis relative to the stars.
+
+Q: What is the difference between a solar eclipse and an annular solar eclipse?
+A: A solar eclipse occurs when the moon passes between the sun and Earth, blocking the sun's light, while an annular solar eclipse is a solar eclipse in which the moon is too far from Earth to completely block the sun's light, creating a ring of light around the moon.

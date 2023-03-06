@@ -1,0 +1,140 @@
+Q: What is economics?
+A: Economics is the study of how people allocate scarce resources to satisfy their unlimited wants.
+
+Q: What is scarcity?
+A: Scarcity is the condition of having limited resources relative to unlimited wants.
+
+Q: What is opportunity cost?
+A: Opportunity cost is the value of the next best alternative that must be given up in order to pursue a certain action.
+
+Q: What is the law of demand?
+A: The law of demand states that as the price of a good or service increases, the quantity demanded decreases, and vice versa.
+
+Q: What is the law of supply?
+A: The law of supply states that as the price of a good or service increases, the quantity supplied increases, and vice versa.
+
+Q: What is equilibrium?
+A: Equilibrium is the point at which the quantity demanded of a good or service equals the quantity supplied, resulting in no shortage or surplus.
+
+Q: What is a market?
+A: A market is a place where buyers and sellers come together to exchange goods and services.
+
+Q: What is a monopoly?
+A: A monopoly is a market structure in which a single firm controls the entire market for a particular good or service.
+
+Q: What is a oligopoly?
+A: An oligopoly is a market structure in which a few large firms dominate the market for a particular good or service.
+
+Q: What is a perfect competition?
+A: Perfect competition is a market structure in which many small firms compete against each other, with no single firm having a significant market share.
+
+Q: What is inflation?
+A: Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling.
+
+Q: What is deflation?
+A: Deflation is the rate at which the general level of prices for goods and services is falling, and subsequently, purchasing power is increasing.
+
+Q: What is GDP?
+A: GDP (Gross Domestic Product) is the total value of all goods and services produced within a country's borders in a given time period.
+
+Q: What is GNP?
+A: GNP (Gross National Product) is the total value of all goods and services produced by a country's citizens, regardless of their location, in a given time period.
+
+Q: What is a recession?
+A: A recession is a period of economic decline, typically characterized by a decrease in GDP, employment, and trade.
+
+Q: What is a depression?
+A: A depression is a severe and prolonged recession, typically characterized by high unemployment, low economic output, and a general decline in economic activity.
+
+Q: What is a fiscal policy?
+A: Fiscal policy is the use of government spending and taxation to influence the economy.
+
+Q: What is a monetary policy?
+A: Monetary policy is the use of interest rates and the money supply to influence the economy.
+
+Q: What is a budget deficit?
+A: A budget deficit occurs when government spending exceeds government revenue.
+
+Q: What is a budget surplus?
+A: A budget surplus occurs when government revenue exceeds government spending.
+
+Q: What is a trade deficit?
+A: A trade deficit occurs when a country imports more goods and services than it exports.
+
+Q: What is a trade surplus?
+A: A trade surplus occurs when a country exports more goods and services than it imports.
+
+Q: What is a tariff?
+A: A tariff is a tax on imported goods.
+
+Q: What is a quota?
+A: A quota is a limit on the quantity of a particular good that can be imported.
+
+Q: What is a subsidy?
+A: A subsidy is a payment made by the government to support a particular industry or activity.
+
+Q: What is a progressive tax?
+A: A progressive tax is a tax in which the percentage of income paid in taxes increases as income increases.
+
+Q: What is a regressive tax?
+A: A regressive tax is a tax in which the percentage of income paid in taxes decreases as income increases.
+
+Q: What is a flat tax?
+A: A flat tax is a tax in which everyone pays the same percentage of their income in taxes.
+
+Q: What is a public good?
+A: A public good is a good or service that is non-excludable and non-rivalrous, meaning that it is available to everyone and its consumption by one person does not diminish its availability to others.
+
+Q: What is a private good?
+A: A private good is a good or service that is excludable and rivalrous, meaning that it is available only to those who pay for it and its consumption by one person diminishes its availability to others.
+
+Q: What is a externality?
+A: An externality is a cost or benefit that is not reflected in the market price of a good or service, and is therefore not taken into account by buyers and sellers.
+
+Q: What is a market failure?
+A: A market failure occurs when the market fails to allocate resources efficiently, resulting in an inefficient outcome.
+
+Q: What is a command economy?
+A: A command economy is an economic system in which the government makes all economic decisions.
+
+Q: What is a market economy?
+A: A market economy is an economic system in which the decisions regarding investment, production, and distribution are guided by the price signals created by the forces of supply and demand.
+
+Q: What is a mixed economy?
+A: A mixed economy is an economic system that combines elements of both command and market economies.
+
+Q: What is the invisible hand?
+A: The invisible hand is a metaphor used to describe the self-regulating nature of the market economy, in which individuals acting in their own self-interest unintentionally promote the well-being of society as a whole.
+
+Q: What is a stock?
+A: A stock is a share of ownership in a company.
+
+Q: What is a bond?
+A: A bond is a debt security in which an investor loans money to an entity (typically a company or government) which borrows the funds for a defined period of time at a fixed interest rate.
+
+Q: What is a mutual fund?
+A: A mutual fund is a type of investment vehicle consisting of a portfolio of stocks, bonds, or other securities, which is managed by a professional investment company.
+
+Q: What is a hedge fund?
+A: A hedge fund is a type of investment vehicle consisting of a portfolio of securities, which is managed by a professional investment company and is typically open only to wealthy investors.
+
+Q: What is a derivative?
+A: A derivative is a financial instrument whose value is derived from the value of an underlying asset, such as a stock or commodity.
+
+Q: What is a credit score?
+A: A credit score is a numerical representation of a person's creditworthiness, based on their credit history and other financial information.
+
+Q: What is a budget?
+A: A budget is a financial plan that outlines expected income and expenses over a certain period of time.
+
+Q: What is a savings account?
+A: A savings account is a type of bank account that pays interest on the balance, and is typically used for saving money.
+
+Q: What is a checking account?
+A: A checking account is a type of bank account that is used for everyday transactions, such as paying bills and making purchases.
+
+Q: What is a credit card?
+A: A credit card is a type of payment card that allows the cardholder to borrow funds from a bank or financial institution to make purchases.
+
+Q: What is a debit card?
+A: A debit card is a type of payment card that allows the cardholder to access funds from their checking account to make purchases or withdraw cash.

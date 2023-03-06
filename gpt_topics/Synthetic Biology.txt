@@ -1,0 +1,125 @@
+Q: What is synthetic biology?
+A: Synthetic biology is the design and construction of new biological parts, devices, and systems that do not exist in nature.
+
+Q: What is the goal of synthetic biology?
+A: The goal of synthetic biology is to create new biological systems that can perform specific functions.
+
+Q: What are some examples of synthetic biology applications?
+A: Some examples of synthetic biology applications include creating new medicines, developing new biofuels, and producing new materials.
+
+Q: What is a synthetic gene?
+A: A synthetic gene is a gene that has been designed and synthesized in a laboratory.
+
+Q: What is a synthetic organism?
+A: A synthetic organism is an organism that has been created using synthetic biology techniques.
+
+Q: What is a biosensor?
+A: A biosensor is a device that uses biological molecules to detect the presence of specific substances.
+
+Q: What is a bioreactor?
+A: A bioreactor is a device that is used to grow and maintain cells or microorganisms in a controlled environment.
+
+Q: What is a gene circuit?
+A: A gene circuit is a set of genes that have been engineered to work together to perform a specific function.
+
+Q: What is a genome?
+A: A genome is the complete set of genetic material in an organism.
+
+Q: What is CRISPR?
+A: CRISPR is a gene editing tool that allows scientists to make precise changes to DNA sequences.
+
+Q: What is gene editing?
+A: Gene editing is the process of making changes to the DNA sequence of an organism.
+
+Q: What is gene synthesis?
+A: Gene synthesis is the process of creating a synthetic gene in a laboratory.
+
+Q: What is a plasmid?
+A: A plasmid is a small, circular piece of DNA that is separate from the chromosomal DNA in a cell.
+
+Q: What is a vector?
+A: A vector is a carrier molecule that is used to transfer genetic material into a cell.
+
+Q: What is a promoter?
+A: A promoter is a region of DNA that initiates the transcription of a particular gene.
+
+Q: What is a terminator?
+A: A terminator is a region of DNA that signals the end of transcription.
+
+Q: What is a reporter gene?
+A: A reporter gene is a gene that is used to monitor the activity of another gene or promoter.
+
+Q: What is a transgene?
+A: A transgene is a gene that has been transferred from one organism to another.
+
+Q: What is a knockout organism?
+A: A knockout organism is an organism in which a particular gene has been intentionally inactivated.
+
+Q: What is a knock-in organism?
+A: A knock-in organism is an organism in which a new gene has been inserted into the genome.
+
+Q: What is a gene drive?
+A: A gene drive is a genetic mechanism that increases the likelihood of a particular gene being passed on to the next generation.
+
+Q: What is a synthetic virus?
+A: A synthetic virus is a virus that has been created using synthetic biology techniques.
+
+Q: What is a synthetic cell?
+A: A synthetic cell is a cell that has been created using synthetic biology techniques.
+
+Q: What is a metabolic pathway?
+A: A metabolic pathway is a series of chemical reactions that occur within a cell to convert one molecule into another.
+
+Q: What is a chassis organism?
+A: A chassis organism is an organism that has been engineered to serve as a platform for synthetic biology applications.
+
+Q: What is a biocontainment system?
+A: A biocontainment system is a set of measures that are used to prevent the accidental release of genetically modified organisms into the environment.
+
+Q: What is a biosafety level?
+A: A biosafety level is a set of guidelines that are used to ensure the safe handling of biological materials.
+
+Q: What is a genetic switch?
+A: A genetic switch is a mechanism that allows the expression of a gene to be turned on or off in response to a particular stimulus.
+
+Q: What is a genetic circuit?
+A: A genetic circuit is a set of genes that have been engineered to work together to perform a specific function.
+
+Q: What is a synthetic enzyme?
+A: A synthetic enzyme is an enzyme that has been designed and synthesized in a laboratory.
+
+Q: What is a synthetic protein?
+A: A synthetic protein is a protein that has been designed and synthesized in a laboratory.
+
+Q: What is a synthetic pathway?
+A: A synthetic pathway is a set of enzymes and metabolic reactions that have been engineered to produce a specific molecule.
+
+Q: What is a synthetic genome?
+A: A synthetic genome is a genome that has been created using synthetic biology techniques.
+
+Q: What is a synthetic biology toolkit?
+A: A synthetic biology toolkit is a collection of genetic parts and tools that can be used to engineer biological systems.
+
+Q: What is a synthetic biology platform?
+A: A synthetic biology platform is a set of tools and technologies that are used to design and construct biological systems.
+
+Q: What is a synthetic biology database?
+A: A synthetic biology database is a collection of genetic parts and systems that have been designed and characterized by the synthetic biology community.
+
+Q: What is a synthetic biology standard?
+A: A synthetic biology standard is a set of guidelines and protocols that are used to ensure the reproducibility and reliability of synthetic biology experiments.
+
+Q: What is a synthetic biology community?
+A: The synthetic biology community is a group of scientists, engineers, and other professionals who are working to advance the field of synthetic biology.
+
+Q: What is a synthetic biology conference?
+A: A synthetic biology conference is a meeting of scientists, engineers, and other professionals who are working in the field of synthetic biology.
+
+Q: What is a synthetic biology journal?
+A: A synthetic biology journal is a publication that focuses on research in the field of synthetic biology.
+
+Q: What is a synthetic biology company?
+A: A synthetic biology company is a business that is focused on developing and commercializing synthetic biology products and services.
+
+Q: What is a synthetic biology patent?
+A: A synthetic biology patent is a legal document that gives the holder exclusive rights to use and sell a particular synthetic biology invention.

@@ -1,0 +1,134 @@
+Q: What is linguistics?
+A: Linguistics is the scientific study of language and its structure.
+
+Q: What are the branches of linguistics?
+A: The branches of linguistics include phonetics, phonology, morphology, syntax, semantics, and pragmatics.
+
+Q: What is phonetics?
+A: Phonetics is the study of the physical properties of speech sounds.
+
+Q: What is phonology?
+A: Phonology is the study of the sound patterns of language.
+
+Q: What is morphology?
+A: Morphology is the study of the structure of words.
+
+Q: What is syntax?
+A: Syntax is the study of the structure of sentences.
+
+Q: What is semantics?
+A: Semantics is the study of meaning in language.
+
+Q: What is pragmatics?
+A: Pragmatics is the study of how context affects meaning in language.
+
+Q: What is a phoneme?
+A: A phoneme is the smallest unit of sound that can change the meaning of a word.
+
+Q: What is a morpheme?
+A: A morpheme is the smallest unit of meaning in a word.
+
+Q: What is a lexicon?
+A: A lexicon is the vocabulary of a language.
+
+Q: What is a dialect?
+A: A dialect is a variety of a language spoken in a particular region or by a particular group of people.
+
+Q: What is a register?
+A: A register is a variety of language used in a particular social context.
+
+Q: What is a discourse?
+A: A discourse is a unit of language larger than a sentence, such as a conversation or a written text.
+
+Q: What is a corpus?
+A: A corpus is a collection of texts used for linguistic analysis.
+
+Q: What is a language family?
+A: A language family is a group of languages that are related to each other through a common ancestor.
+
+Q: What is a language isolate?
+A: A language isolate is a language that has no known relatives.
+
+Q: What is a creole?
+A: A creole is a language that develops from a mixture of different languages.
+
+Q: What is a pidgin?
+A: A pidgin is a simplified language that develops as a means of communication between people who do not share a common language.
+
+Q: What is a cognate?
+A: A cognate is a word in one language that is related to a word in another language through a common ancestor.
+
+Q: What is a loanword?
+A: A loanword is a word borrowed from another language and incorporated into the borrowing language.
+
+Q: What is a neologism?
+A: A neologism is a newly coined word or expression.
+
+Q: What is a homophone?
+A: A homophone is a word that is pronounced the same as another word but has a different meaning and spelling.
+
+Q: What is a homonym?
+A: A homonym is a word that is spelled and pronounced the same as another word but has a different meaning.
+
+Q: What is a synonym?
+A: A synonym is a word that has the same or a similar meaning as another word.
+
+Q: What is an antonym?
+A: An antonym is a word that has the opposite meaning of another word.
+
+Q: What is a hypernym?
+A: A hypernym is a word that is more general than another word.
+
+Q: What is a hyponym?
+A: A hyponym is a word that is more specific than another word.
+
+Q: What is a collocation?
+A: A collocation is a combination of words that frequently occur together.
+
+Q: What is a discourse marker?
+A: A discourse marker is a word or phrase used to signal the organization or structure of a discourse.
+
+Q: What is a speech act?
+A: A speech act is an utterance that performs a function in communication, such as making a request or giving an order.
+
+Q: What is a metaphor?
+A: A metaphor is a figure of speech in which a word or phrase is used to describe something else that it is not literally applicable to.
+
+Q: What is a metonymy?
+A: A metonymy is a figure of speech in which a word or phrase is used to refer to something else that it is closely associated with.
+
+Q: What is a discourse community?
+A: A discourse community is a group of people who share a common language and use it to communicate with each other.
+
+Q: What is a speech community?
+A: A speech community is a group of people who share a common language and use it to communicate with each other.
+
+Q: What is a linguistic variable?
+A: A linguistic variable is a feature of language that varies between different speakers or groups of speakers.
+
+Q: What is a linguistic stereotype?
+A: A linguistic stereotype is a generalization about a group of people based on their language use.
+
+Q: What is a linguistic taboo?
+A: A linguistic taboo is a word or expression that is considered offensive or inappropriate in a particular culture.
+
+Q: What is linguistic relativity?
+A: Linguistic relativity is the idea that language influences thought and perception.
+
+Q: What is linguistic determinism?
+A: Linguistic determinism is the idea that language determines thought and perception.
+
+Q: What is code-switching?
+A: Code-switching is the practice of alternating between two or more languages or language varieties in a single conversation.
+
+Q: What is language acquisition?
+A: Language acquisition is the process by which humans acquire the ability to use language.
+
+Q: What is language change?
+A: Language change is the process by which languages evolve over time.
+
+Q: What is language contact?
+A: Language contact is the situation in which two or more languages come into contact with each other.
+
+Q: What is language planning?
+A: Language planning is the deliberate effort to influence the development or use of a language.

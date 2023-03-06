@@ -1,0 +1,113 @@
+Q: What is biomechanics?
+A: Biomechanics is the study of the mechanical laws relating to the movement or structure of living organisms.
+
+Q: What are the two main branches of biomechanics?
+A: The two main branches of biomechanics are statics and dynamics.
+
+Q: What is statics?
+A: Statics is the branch of mechanics that deals with the analysis of forces acting on a body at rest.
+
+Q: What is dynamics?
+A: Dynamics is the branch of mechanics that deals with the analysis of forces acting on a body in motion.
+
+Q: What is kinematics?
+A: Kinematics is the branch of mechanics that deals with the description of motion without regard to the forces that cause the motion.
+
+Q: What is kinetics?
+A: Kinetics is the branch of mechanics that deals with the forces that cause motion.
+
+Q: What is the difference between kinematics and kinetics?
+A: Kinematics deals with the description of motion without regard to the forces that cause the motion, while kinetics deals with the forces that cause motion.
+
+Q: What is the difference between statics and dynamics?
+A: Statics deals with the analysis of forces acting on a body at rest, while dynamics deals with the analysis of forces acting on a body in motion.
+
+Q: What is a force?
+A: A force is a push or pull that can cause a change in motion.
+
+Q: What is Newton's first law of motion?
+A: Newton's first law of motion states that an object at rest will remain at rest, and an object in motion will remain in motion with a constant velocity, unless acted upon by an external force.
+
+Q: What is Newton's second law of motion?
+A: Newton's second law of motion states that the acceleration of an object is directly proportional to the force applied to it, and inversely proportional to its mass.
+
+Q: What is Newton's third law of motion?
+A: Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+
+Q: What is the difference between mass and weight?
+A: Mass is the amount of matter in an object, while weight is the force exerted on an object due to gravity.
+
+Q: What is torque?
+A: Torque is a measure of the force that causes an object to rotate around an axis or pivot point.
+
+Q: What is the difference between linear and angular motion?
+A: Linear motion is motion in a straight line, while angular motion is motion around an axis or pivot point.
+
+Q: What is the difference between velocity and acceleration?
+A: Velocity is the rate of change of displacement, while acceleration is the rate of change of velocity.
+
+Q: What is the difference between speed and velocity?
+A: Speed is the rate at which an object moves, while velocity is the rate of change of displacement.
+
+Q: What is the difference between work and power?
+A: Work is the product of force and displacement, while power is the rate at which work is done.
+
+Q: What is energy?
+A: Energy is the ability to do work.
+
+Q: What is potential energy?
+A: Potential energy is the energy that an object possesses due to its position or configuration.
+
+Q: What is kinetic energy?
+A: Kinetic energy is the energy that an object possesses due to its motion.
+
+Q: What is the law of conservation of energy?
+A: The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.
+
+Q: What is stress?
+A: Stress is the force per unit area that a material experiences when subjected to an external force.
+
+Q: What is strain?
+A: Strain is the deformation that a material undergoes when subjected to an external force.
+
+Q: What is elasticity?
+A: Elasticity is the ability of a material to return to its original shape after being deformed by an external force.
+
+Q: What is plasticity?
+A: Plasticity is the ability of a material to undergo permanent deformation without breaking.
+
+Q: What is the difference between tension and compression?
+A: Tension is the force that pulls a material apart, while compression is the force that pushes a material together.
+
+Q: What is the difference between shear and bending?
+A: Shear is the force that causes a material to slide past itself, while bending is the force that causes a material to bend or deform.
+
+Q: What is the difference between a stress and a strain curve?
+A: A stress curve shows the relationship between stress and strain, while a strain curve shows the relationship between strain and stress.
+
+Q: What is the difference between a linear and nonlinear material?
+A: A linear material has a constant relationship between stress and strain, while a nonlinear material has a changing relationship between stress and strain.
+
+Q: What is the difference between a brittle and ductile material?
+A: A brittle material fractures easily under stress, while a ductile material can undergo significant plastic deformation before fracturing.
+
+Q: What is the difference between a viscoelastic and an elastic material?
+A: A viscoelastic material exhibits both viscous and elastic behavior, while an elastic material only exhibits elastic behavior.
+
+Q: What is the difference between a homogeneous and a heterogeneous material?
+A: A homogeneous material has uniform properties throughout, while a heterogeneous material has varying properties throughout.
+
+Q: What is the difference between a isotropic and an anisotropic material?
+A: An isotropic material has the same properties in all directions, while an anisotropic material has different properties in different directions.
+
+Q: What is the difference between a linear and a nonlinear system?
+A: A linear system has a constant relationship between input and output, while a nonlinear system has a changing relationship between input and output.
+
+Q: What is the difference between a closed and an open system?
+A: A closed system does not exchange matter or energy with its surroundings, while an open system does exchange matter or energy with its surroundings.
+
+Q: What is the difference between a stable and an unstable system?
+A: A stable system returns to its original state after a disturbance, while an unstable system does not return to its original state after a disturbance.
+
+Q: What is the difference between a deterministic and a stochastic system?
+A: A deterministic system has a predictable outcome based on its initial conditions, while a stochastic system has a random outcome based on probability.

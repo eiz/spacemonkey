@@ -1,0 +1,116 @@
+Q: What is cognitive science?
+A: Cognitive science is the study of the mind and its processes.
+
+Q: What are the main disciplines that contribute to cognitive science?
+A: The main disciplines that contribute to cognitive science are psychology, neuroscience, linguistics, philosophy, and computer science.
+
+Q: What is the difference between bottom-up and top-down processing?
+A: Bottom-up processing refers to the processing of sensory information from the environment, while top-down processing refers to the use of prior knowledge and expectations to interpret sensory information.
+
+Q: What is working memory?
+A: Working memory is a cognitive system that temporarily stores and manipulates information.
+
+Q: What is the difference between short-term memory and working memory?
+A: Short-term memory refers to the temporary storage of information, while working memory refers to the temporary storage and manipulation of information.
+
+Q: What is attention?
+A: Attention is the cognitive process of selectively focusing on certain aspects of the environment while ignoring others.
+
+Q: What is the difference between selective attention and divided attention?
+A: Selective attention refers to the ability to focus on one task or stimulus while ignoring others, while divided attention refers to the ability to focus on multiple tasks or stimuli at the same time.
+
+Q: What is perception?
+A: Perception is the process of interpreting sensory information from the environment.
+
+Q: What is the difference between sensation and perception?
+A: Sensation refers to the detection of sensory information from the environment, while perception refers to the interpretation of that sensory information.
+
+Q: What is the difference between bottom-up and top-down processing in perception?
+A: Bottom-up processing in perception refers to the processing of sensory information from the environment, while top-down processing in perception refers to the use of prior knowledge and expectations to interpret sensory information.
+
+Q: What is the difference between feature detection and object recognition in perception?
+A: Feature detection in perception refers to the detection of basic sensory features, such as lines and edges, while object recognition in perception refers to the identification of complex objects based on their features.
+
+Q: What is the difference between sensation and perception in the context of vision?
+A: Sensation in the context of vision refers to the detection of light and color, while perception in the context of vision refers to the interpretation of that light and color as objects and scenes.
+
+Q: What is the difference between the dorsal and ventral streams in visual processing?
+A: The dorsal stream in visual processing is responsible for processing spatial information and guiding action, while the ventral stream in visual processing is responsible for object recognition and perception.
+
+Q: What is the difference between the phonological loop and the visuospatial sketchpad in working memory?
+A: The phonological loop in working memory is responsible for the temporary storage and manipulation of verbal information, while the visuospatial sketchpad in working memory is responsible for the temporary storage and manipulation of visual and spatial information.
+
+Q: What is the difference between declarative and procedural memory?
+A: Declarative memory refers to the conscious, intentional recollection of facts and events, while procedural memory refers to the unconscious, automatic memory for skills and habits.
+
+Q: What is the difference between episodic and semantic memory?
+A: Episodic memory refers to the memory for specific events and experiences, while semantic memory refers to the memory for general knowledge and concepts.
+
+Q: What is the difference between explicit and implicit memory?
+A: Explicit memory refers to the conscious, intentional recollection of information, while implicit memory refers to the unconscious, automatic memory for information.
+
+Q: What is the difference between recall and recognition memory?
+A: Recall memory refers to the ability to retrieve information from memory without any cues, while recognition memory refers to the ability to identify previously encountered information with the help of cues.
+
+Q: What is the difference between retrograde and anterograde amnesia?
+A: Retrograde amnesia refers to the loss of memory for events that occurred before the onset of amnesia, while anterograde amnesia refers to the inability to form new memories after the onset of amnesia.
+
+Q: What is the difference between the availability and accessibility of memory?
+A: The availability of memory refers to the presence of information in memory, while the accessibility of memory refers to the ease with which that information can be retrieved.
+
+Q: What is the difference between the encoding, storage, and retrieval of memory?
+A: Encoding refers to the process of acquiring information and transforming it into a form that can be stored in memory, storage refers to the retention of that information over time, and retrieval refers to the process of accessing and using that information when needed.
+
+Q: What is the difference between the primacy and recency effects in memory?
+A: The primacy effect in memory refers to the better recall of items presented at the beginning of a list, while the recency effect in memory refers to the better recall of items presented at the end of a list.
+
+Q: What is the difference between the levels-of-processing and transfer-appropriate processing models of memory?
+A: The levels-of-processing model of memory suggests that the depth of processing of information determines its likelihood of being remembered, while the transfer-appropriate processing model of memory suggests that the similarity between the encoding and retrieval contexts determines the likelihood of successful retrieval.
+
+Q: What is the difference between the decay and interference theories of forgetting?
+A: The decay theory of forgetting suggests that memories fade over time due to disuse, while the interference theory of forgetting suggests that memories are disrupted by the presence of other information.
+
+Q: What is the difference between the proactive and retroactive interference effects in memory?
+A: The proactive interference effect in memory refers to the interference of previously learned information with the learning of new information, while the retroactive interference effect in memory refers to the interference of newly learned information with the retrieval of previously learned information.
+
+Q: What is the difference between the misinformation and source monitoring effects in memory?
+A: The misinformation effect in memory refers to the distortion of memory due to the incorporation of misleading information, while the source monitoring effect in memory refers to the difficulty of distinguishing between the source of information and the content of that information.
+
+Q: What is the difference between deductive and inductive reasoning?
+A: Deductive reasoning involves drawing conclusions from general principles, while inductive reasoning involves drawing general principles from specific observations.
+
+Q: What is the difference between confirmation bias and belief perseverance?
+A: Confirmation bias refers to the tendency to seek out information that confirms one's preexisting beliefs, while belief perseverance refers to the tendency to maintain one's beliefs even in the face of contradictory evidence.
+
+Q: What is the difference between heuristics and algorithms in problem solving?
+A: Heuristics are mental shortcuts or rules of thumb that simplify problem solving, while algorithms are step-by-step procedures that guarantee a solution to a problem.
+
+Q: What is the difference between convergent and divergent thinking?
+A: Convergent thinking involves narrowing down possible solutions to a problem to find the best one, while divergent thinking involves generating multiple possible solutions to a problem.
+
+Q: What is the difference between insight and trial-and-error problem solving?
+A: Insight problem solving involves sudden realization of a solution to a problem, while trial-and-error problem solving involves trying different solutions until one works.
+
+Q: What is the difference between the representativeness and availability heuristics in decision making?
+A: The representativeness heuristic in decision making involves judging the likelihood of an event based on how well it fits a prototype or stereotype, while the availability heuristic in decision making involves judging the likelihood of an event based on how easily it comes to mind.
+
+Q: What is the difference between the framing effect and the sunk cost fallacy in decision making?
+A: The framing effect in decision making refers to the influence of the way a problem is presented on the decision that is made, while the sunk cost fallacy in decision making refers to the tendency to continue investing in a project or decision even when it is no longer rational to do so.
+
+Q: What is the difference between the anchoring and adjustment heuristic and the hindsight bias in decision making?
+A: The anchoring and adjustment heuristic in decision making involves using an initial estimate as a starting point and adjusting it based on new information, while the hindsight bias in decision making involves overestimating one's ability to have predicted an event after it has occurred.
+
+Q: What is the difference between the self-serving bias and the fundamental attribution error in social cognition?
+A: The self-serving bias in social cognition involves attributing one's successes to internal factors and one's failures to external factors, while the fundamental attribution error in social cognition involves overemphasizing internal factors and underemphasizing external factors when explaining the behavior of others.
+
+Q: What is the difference between the actor-observer bias and the false consensus effect in social cognition?
+A: The actor-observer bias in social cognition involves attributing one's own behavior to external factors and the behavior of others to internal factors, while the false consensus effect in social cognition involves overestimating the extent to which others share one's own beliefs and attitudes.
+
+Q: What is the difference between the social identity theory and the social cognitive theory of group behavior?
+A: The social identity theory of group behavior suggests that people derive their self-concept from their membership in social groups, while the social cognitive theory of group behavior suggests that people's behavior in groups is influenced by their perceptions of the group and its norms.
+
+Q: What is the difference between the mere exposure effect and the social facilitation effect in social psychology?
+A: The mere exposure effect in social psychology refers to the tendency to develop a preference for things simply because they are familiar, while the social facilitation effect in social psychology refers to the tendency for people to perform better on simple tasks in the presence of others.
+
+Q: What is the difference between the bystander effect and the diffusion of responsibility in social psychology?
+A: The bystander effect in social psychology refers to the tendency for people to be less likely to help someone in need when others are present, while the diffusion of responsibility in social psychology refers to the tendency for people to feel less responsible for helping when others are present.

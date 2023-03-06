@@ -1,0 +1,125 @@
+Q: What is cosmology?
+A: Cosmology is the study of the origin, evolution, and structure of the universe.
+
+Q: What is the Big Bang theory?
+A: The Big Bang theory is the prevailing cosmological model that explains the origin of the universe.
+
+Q: How old is the universe?
+A: The universe is estimated to be around 13.8 billion years old.
+
+Q: What is dark matter?
+A: Dark matter is a hypothetical form of matter that is thought to make up approximately 85% of the matter in the universe.
+
+Q: What is dark energy?
+A: Dark energy is a hypothetical form of energy that is thought to be responsible for the accelerating expansion of the universe.
+
+Q: What is the cosmic microwave background radiation?
+A: The cosmic microwave background radiation is the afterglow of the Big Bang that fills the entire universe.
+
+Q: What is inflation?
+A: Inflation is a theory that suggests that the universe underwent a period of exponential expansion in the first fraction of a second after the Big Bang.
+
+Q: What is a black hole?
+A: A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape.
+
+Q: What is a galaxy?
+A: A galaxy is a large group of stars, dust, and gas held together by gravity.
+
+Q: What is a supernova?
+A: A supernova is a powerful explosion that occurs when a star runs out of fuel and collapses.
+
+Q: What is a neutron star?
+A: A neutron star is a very dense star that is composed almost entirely of neutrons.
+
+Q: What is a pulsar?
+A: A pulsar is a highly magnetized, rotating neutron star that emits beams of electromagnetic radiation.
+
+Q: What is a quasar?
+A: A quasar is a very bright and distant object that is powered by a supermassive black hole at the center of a galaxy.
+
+Q: What is a red giant?
+A: A red giant is a star that has exhausted the hydrogen fuel in its core and has expanded to a much larger size.
+
+Q: What is a white dwarf?
+A: A white dwarf is a small, dense star that is the remnant of a low-mass star that has exhausted its nuclear fuel.
+
+Q: What is a brown dwarf?
+A: A brown dwarf is a star-like object that is too small to sustain nuclear fusion in its core.
+
+Q: What is a planetary nebula?
+A: A planetary nebula is a glowing shell of gas and dust that is ejected by a dying star.
+
+Q: What is the Hubble Space Telescope?
+A: The Hubble Space Telescope is a large telescope in space that has provided astronomers with many important discoveries and images of the universe.
+
+Q: What is the James Webb Space Telescope?
+A: The James Webb Space Telescope is a large, infrared telescope that is set to launch in 2021 and will study the early universe, exoplanets, and more.
+
+Q: What is the cosmic web?
+A: The cosmic web is the large-scale structure of the universe that consists of filaments of gas and dark matter that connect galaxies.
+
+Q: What is the Local Group?
+A: The Local Group is a group of galaxies that includes the Milky Way and Andromeda galaxies, among others.
+
+Q: What is the Great Attractor?
+A: The Great Attractor is a mysterious region of space that is pulling galaxies towards it with its gravity.
+
+Q: What is the Virgo Supercluster?
+A: The Virgo Supercluster is a large group of galaxies that includes the Local Group and many other galaxy groups and clusters.
+
+Q: What is the multiverse theory?
+A: The multiverse theory is the idea that there may be multiple universes, each with its own set of physical laws and properties.
+
+Q: What is the anthropic principle?
+A: The anthropic principle is the idea that the universe must be compatible with the existence of intelligent life because we are here to observe it.
+
+Q: What is the Drake equation?
+A: The Drake equation is a formula that estimates the number of intelligent civilizations in the Milky Way galaxy.
+
+Q: What is the Fermi paradox?
+A: The Fermi paradox is the apparent contradiction between the high probability of the existence of extraterrestrial civilizations and the lack of evidence for or contact with such civilizations.
+
+Q: What is the SETI program?
+A: The SETI program is a scientific effort to search for extraterrestrial intelligence by scanning the skies for signals from other civilizations.
+
+Q: What is the Goldilocks zone?
+A: The Goldilocks zone is the range of distances from a star where a planet could have liquid water on its surface, which is considered a necessary condition for life as we know it.
+
+Q: What is a habitable zone?
+A: A habitable zone is the range of distances from a star where a planet could have conditions that are suitable for life.
+
+Q: What is an exoplanet?
+A: An exoplanet is a planet that orbits a star outside of our solar system.
+
+Q: What is the Kepler mission?
+A: The Kepler mission was a space telescope that searched for exoplanets by detecting the slight dimming of a star's light as a planet passed in front of it.
+
+Q: What is the TESS mission?
+A: The TESS mission is a space telescope that is searching for exoplanets by observing the slight dimming of a star's light as a planet passes in front of it.
+
+Q: What is the Kardashev scale?
+A: The Kardashev scale is a system that measures the technological advancement of a civilization based on its ability to harness and use energy.
+
+Q: What is the Fermi bubble?
+A: The Fermi bubble is a large, gamma-ray emitting structure that extends above and below the Milky Way galaxy.
+
+Q: What is the Oort cloud?
+A: The Oort cloud is a hypothetical cloud of icy objects that is thought to exist at the outermost edge of the solar system.
+
+Q: What is a comet?
+A: A comet is a small, icy object that orbits the sun and develops a tail when it gets close to the sun.
+
+Q: What is an asteroid?
+A: An asteroid is a small, rocky object that orbits the sun and is typically found in the asteroid belt between Mars and Jupiter.
+
+Q: What is a meteor?
+A: A meteor is a small piece of space debris that enters the Earth's atmosphere and burns up, producing a streak of light in the sky.
+
+Q: What is a meteorite?
+A: A meteorite is a piece of space debris that survives its passage through the Earth's atmosphere and lands on the Earth's surface.
+
+Q: What is a gamma-ray burst?
+A: A gamma-ray burst is a powerful burst of gamma-ray radiation that is thought to be produced by the collapse of a massive star or the collision of two neutron stars.
+
+Q: What is a cosmic ray?
+A: A cosmic ray is a high-energy particle that originates from outside the solar system and travels through space at nearly the speed of light.

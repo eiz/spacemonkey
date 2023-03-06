@@ -1,0 +1,101 @@
+Q: What is forensic science?
+A: Forensic science is the application of scientific methods and techniques to investigate crimes and other legal issues.
+
+Q: What are the three main branches of forensic science?
+A: The three main branches of forensic science are forensic biology, forensic chemistry, and forensic physics.
+
+Q: What is forensic biology?
+A: Forensic biology is the study of biological evidence such as blood, semen, and DNA.
+
+Q: What is forensic chemistry?
+A: Forensic chemistry is the study of chemical evidence such as drugs, poisons, and explosives.
+
+Q: What is forensic physics?
+A: Forensic physics is the study of physical evidence such as fingerprints, footprints, and ballistics.
+
+Q: What is the role of a forensic scientist?
+A: The role of a forensic scientist is to analyze and interpret evidence collected from a crime scene.
+
+Q: What is the first step in a forensic investigation?
+A: The first step in a forensic investigation is to secure the crime scene.
+
+Q: What is the chain of custody?
+A: The chain of custody is the documentation of the movement of evidence from the crime scene to the laboratory and through the analysis process.
+
+Q: What is the purpose of the chain of custody?
+A: The purpose of the chain of custody is to ensure the integrity and admissibility of evidence in court.
+
+Q: What is the difference between direct and circumstantial evidence?
+A: Direct evidence is evidence that directly proves a fact, while circumstantial evidence is evidence that implies a fact but does not directly prove it.
+
+Q: What is the most common type of evidence found at a crime scene?
+A: The most common type of evidence found at a crime scene is DNA evidence.
+
+Q: What is the difference between individual and class evidence?
+A: Individual evidence can be linked to a specific person or source, while class evidence can only be linked to a group of people or sources.
+
+Q: What is the significance of Locard's Exchange Principle?
+A: Locard's Exchange Principle states that every contact leaves a trace, which means that every person or object that comes into contact with a crime scene leaves some form of evidence.
+
+Q: What is the purpose of a crime scene sketch?
+A: The purpose of a crime scene sketch is to document the layout and location of evidence at a crime scene.
+
+Q: What is the difference between a primary and secondary crime scene?
+A: A primary crime scene is where the crime actually occurred, while a secondary crime scene is a location where evidence related to the crime is found.
+
+Q: What is the purpose of a blood spatter analysis?
+A: The purpose of a blood spatter analysis is to determine the direction, angle, and velocity of blood droplets to help reconstruct the events of a crime.
+
+Q: What is the difference between a coroner and a medical examiner?
+A: A coroner is an elected official who investigates deaths, while a medical examiner is a licensed physician who investigates deaths and performs autopsies.
+
+Q: What is the purpose of an autopsy?
+A: The purpose of an autopsy is to determine the cause and manner of death.
+
+Q: What is the difference between cause and manner of death?
+A: Cause of death is the specific injury or disease that led to a person's death, while manner of death is the circumstances surrounding the death, such as homicide, suicide, or natural causes.
+
+Q: What is the difference between rigor mortis and livor mortis?
+A: Rigor mortis is the stiffening of the body after death, while livor mortis is the pooling of blood in the lowest parts of the body.
+
+Q: What is the difference between algor mortis and decomposition?
+A: Algor mortis is the cooling of the body after death, while decomposition is the breakdown of the body's tissues.
+
+Q: What is the difference between a toxicology screen and a drug test?
+A: A toxicology screen tests for the presence of drugs and other substances in the body, while a drug test only tests for specific drugs.
+
+Q: What is the difference between a presumptive and confirmatory test?
+A: A presumptive test is a quick and simple test that indicates the possible presence of a substance, while a confirmatory test is a more specific and accurate test that confirms the presence of a substance.
+
+Q: What is the difference between a controlled substance and a prescription drug?
+A: A controlled substance is a drug that is regulated by law due to its potential for abuse, while a prescription drug is a drug that can only be obtained with a prescription from a licensed healthcare provider.
+
+Q: What is the difference between a latent and visible fingerprint?
+A: A latent fingerprint is an invisible fingerprint left on a surface, while a visible fingerprint is a fingerprint that can be seen without any special techniques.
+
+Q: What is the difference between a patent and plastic fingerprint?
+A: A patent fingerprint is a visible fingerprint left in a substance such as blood, while a plastic fingerprint is a three-dimensional impression left in a soft material such as clay.
+
+Q: What is the purpose of ballistics analysis?
+A: The purpose of ballistics analysis is to determine the type of firearm used in a crime and to match bullets and casings to a specific firearm.
+
+Q: What is the difference between a bullet and a casing?
+A: A bullet is the projectile that is fired from a firearm, while a casing is the metal shell that holds the gunpowder and primer.
+
+Q: What is the difference between a homicide and a murder?
+A: Homicide is the killing of one person by another, while murder is a specific type of homicide that involves intent or premeditation.
+
+Q: What is the difference between a felony and a misdemeanor?
+A: A felony is a serious crime that is punishable by more than one year in prison, while a misdemeanor is a less serious crime that is punishable by less than one year in jail.
+
+Q: What is the difference between direct and cross-examination?
+A: Direct examination is when a lawyer questions their own witness, while cross-examination is when a lawyer questions the opposing witness.
+
+Q: What is the difference between a plea bargain and a trial?
+A: A plea bargain is an agreement between the defendant and the prosecution to plead guilty to a lesser charge in exchange for a reduced sentence, while a trial is a legal proceeding in which a judge or jury determines the guilt or innocence of the defendant.
+
+Q: What is the difference between a hung jury and a mistrial?
+A: A hung jury is a jury that is unable to reach a verdict, while a mistrial is a trial that is terminated before a verdict is reached due to a procedural error or other issue.
+
+Q: What is the difference between a civil and criminal case?
+A: A civil case is a legal dispute between two parties that does not involve a crime, while a criminal case is a legal proceeding in which the government prosecutes a person for a crime.

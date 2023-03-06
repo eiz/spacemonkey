@@ -1,0 +1,119 @@
+Q: What is seismology?
+A: Seismology is the study of earthquakes and seismic waves.
+
+Q: What are seismic waves?
+A: Seismic waves are waves of energy that travel through the Earth's crust and cause earthquakes.
+
+Q: What causes earthquakes?
+A: Earthquakes are caused by the movement of tectonic plates in the Earth's crust.
+
+Q: What is the Richter scale?
+A: The Richter scale is a scale used to measure the magnitude of an earthquake.
+
+Q: What is the Mercalli scale?
+A: The Mercalli scale is a scale used to measure the intensity of an earthquake.
+
+Q: What is the difference between magnitude and intensity?
+A: Magnitude is a measure of the energy released by an earthquake, while intensity is a measure of the effects of an earthquake on people and structures.
+
+Q: What is an earthquake fault?
+A: An earthquake fault is a fracture in the Earth's crust where tectonic plates meet and move against each other.
+
+Q: What is the epicenter of an earthquake?
+A: The epicenter of an earthquake is the point on the Earth's surface directly above the focus, or point of origin, of the earthquake.
+
+Q: What is the hypocenter of an earthquake?
+A: The hypocenter of an earthquake is the point of origin, or focus, of the earthquake beneath the Earth's surface.
+
+Q: What is a seismograph?
+A: A seismograph is an instrument used to measure and record seismic waves.
+
+Q: What is a seismogram?
+A: A seismogram is a record of the seismic waves recorded by a seismograph.
+
+Q: What is the difference between a P-wave and an S-wave?
+A: P-waves are primary waves that travel through solids, liquids, and gases, while S-waves are secondary waves that only travel through solids.
+
+Q: What is a surface wave?
+A: A surface wave is a seismic wave that travels along the Earth's surface and causes the most damage during an earthquake.
+
+Q: What is liquefaction?
+A: Liquefaction is the process by which soil loses its strength and stiffness and behaves like a liquid during an earthquake.
+
+Q: What is a tsunami?
+A: A tsunami is a series of ocean waves caused by an earthquake, volcanic eruption, or landslide.
+
+Q: What is a seiche?
+A: A seiche is a standing wave that oscillates in a body of water, such as a lake or a harbor, caused by seismic activity.
+
+Q: What is a foreshock?
+A: A foreshock is a small earthquake that occurs before a larger earthquake, often indicating that a larger earthquake is imminent.
+
+Q: What is an aftershock?
+A: An aftershock is a smaller earthquake that occurs after a larger earthquake, often causing further damage and prolonging the effects of the initial earthquake.
+
+Q: What is the difference between a fault and a fracture?
+A: A fault is a fracture in the Earth's crust where tectonic plates meet and move against each other, while a fracture is a break in the Earth's crust that does not involve movement of tectonic plates.
+
+Q: What is the difference between a seismologist and a geologist?
+A: A seismologist is a scientist who studies earthquakes and seismic waves, while a geologist is a scientist who studies the Earth's structure, composition, and history.
+
+Q: What is the difference between a seismogram and a spectrogram?
+A: A seismogram is a record of the seismic waves recorded by a seismograph, while a spectrogram is a graph that shows the frequency content of a signal over time.
+
+Q: What is the difference between a seismometer and a seismoscope?
+A: A seismometer is an instrument used to measure and record seismic waves, while a seismoscope is an instrument used to detect the occurrence of an earthquake without measuring its magnitude or intensity.
+
+Q: What is the difference between a tsunami and a tidal wave?
+A: A tsunami is a series of ocean waves caused by an earthquake, volcanic eruption, or landslide, while a tidal wave is a large ocean wave caused by the gravitational pull of the moon and sun.
+
+Q: What is the difference between a magnitude 5 earthquake and a magnitude 6 earthquake?
+A: A magnitude 6 earthquake releases 32 times more energy than a magnitude 5 earthquake.
+
+Q: What is the difference between a magnitude 7 earthquake and a magnitude 8 earthquake?
+A: A magnitude 8 earthquake releases 1,000 times more energy than a magnitude 7 earthquake.
+
+Q: What is the difference between a magnitude 9 earthquake and a magnitude 10 earthquake?
+A: A magnitude 10 earthquake would release more energy than the entire world's nuclear arsenal.
+
+Q: What is the difference between a tectonic earthquake and a volcanic earthquake?
+A: A tectonic earthquake is caused by the movement of tectonic plates in the Earth's crust, while a volcanic earthquake is caused by the movement of magma beneath a volcano.
+
+Q: What is the difference between a shallow earthquake and a deep earthquake?
+A: A shallow earthquake occurs within the top 70 kilometers of the Earth's crust, while a deep earthquake occurs between 70 and 700 kilometers beneath the Earth's surface.
+
+Q: What is the difference between a strike-slip fault and a dip-slip fault?
+A: A strike-slip fault is a fault where the movement is horizontal, while a dip-slip fault is a fault where the movement is vertical.
+
+Q: What is the difference between an intraplate earthquake and an interplate earthquake?
+A: An intraplate earthquake occurs within a tectonic plate, while an interplate earthquake occurs at the boundary between two tectonic plates.
+
+Q: What is the difference between a body wave and a surface wave?
+A: A body wave is a seismic wave that travels through the Earth's interior, while a surface wave is a seismic wave that travels along the Earth's surface.
+
+Q: What is the difference between a compressional wave and a shear wave?
+A: A compressional wave is a seismic wave that causes particles of material to move back and forth in the same direction as the wave, while a shear wave is a seismic wave that causes particles of material to move perpendicular to the direction of the wave.
+
+Q: What is the difference between a Love wave and a Rayleigh wave?
+A: A Love wave is a surface wave that causes particles of material to move horizontally, while a Rayleigh wave is a surface wave that causes particles of material to move in a circular motion.
+
+Q: What is the difference between a seismogram and a tiltmeter?
+A: A seismogram records seismic waves, while a tiltmeter measures changes in the angle of the Earth's surface.
+
+Q: What is the difference between a seismogram and a strainmeter?
+A: A seismogram records seismic waves, while a strainmeter measures changes in the length and shape of the Earth's crust.
+
+Q: What is the difference between a seismogram and a magnetometer?
+A: A seismogram records seismic waves, while a magnetometer measures changes in the Earth's magnetic field.
+
+Q: What is the difference between a seismogram and a gravimeter?
+A: A seismogram records seismic waves, while a gravimeter measures changes in the Earth's gravitational field.
+
+Q: What is the difference between a seismogram and a GPS receiver?
+A: A seismogram records seismic waves, while a GPS receiver measures changes in the position of the Earth's surface.
+
+Q: What is the difference between a seismogram and a hydrophone?
+A: A seismogram records seismic waves, while a hydrophone measures changes in underwater sound waves.
+
+Q: What is the difference between a seismogram and a infrasound detector?
+A: A seismogram records seismic waves, while an infrasound detector measures changes in sound waves below the range of human hearing.

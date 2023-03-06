@@ -1,0 +1,122 @@
+Q: What is Machine Learning?
+A: Machine Learning is a subset of Artificial Intelligence that enables machines to learn from data without being explicitly programmed.
+
+Q: What are the types of Machine Learning?
+A: The types of Machine Learning are Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, and Reinforcement Learning.
+
+Q: What is Supervised Learning?
+A: Supervised Learning is a type of Machine Learning where the algorithm learns from labeled data.
+
+Q: What is Unsupervised Learning?
+A: Unsupervised Learning is a type of Machine Learning where the algorithm learns from unlabeled data.
+
+Q: What is Semi-Supervised Learning?
+A: Semi-Supervised Learning is a type of Machine Learning where the algorithm learns from both labeled and unlabeled data.
+
+Q: What is Reinforcement Learning?
+A: Reinforcement Learning is a type of Machine Learning where the algorithm learns by interacting with the environment and receiving feedback in the form of rewards or penalties.
+
+Q: What is the difference between Classification and Regression?
+A: Classification is a type of Supervised Learning where the algorithm predicts a categorical output, while Regression is a type of Supervised Learning where the algorithm predicts a continuous output.
+
+Q: What is Overfitting?
+A: Overfitting is a common problem in Machine Learning where the algorithm performs well on the training data but poorly on the test data.
+
+Q: What is Underfitting?
+A: Underfitting is a common problem in Machine Learning where the algorithm performs poorly on both the training data and the test data.
+
+Q: What is Cross-Validation?
+A: Cross-Validation is a technique used to evaluate the performance of Machine Learning models by dividing the data into multiple subsets and training the model on each subset.
+
+Q: What is Bias in Machine Learning?
+A: Bias in Machine Learning refers to the tendency of a model to consistently predict the wrong output due to a flawed algorithm or biased data.
+
+Q: What is Variance in Machine Learning?
+A: Variance in Machine Learning refers to the tendency of a model to be overly sensitive to small fluctuations in the training data, resulting in poor performance on the test data.
+
+Q: What is a Confusion Matrix?
+A: A Confusion Matrix is a table used to evaluate the performance of a classification model by comparing the predicted output to the actual output.
+
+Q: What is Precision in Machine Learning?
+A: Precision in Machine Learning is the ratio of true positives to the total number of positive predictions.
+
+Q: What is Recall in Machine Learning?
+A: Recall in Machine Learning is the ratio of true positives to the total number of actual positive instances.
+
+Q: What is F1 Score in Machine Learning?
+A: F1 Score in Machine Learning is the harmonic mean of Precision and Recall.
+
+Q: What is the ROC Curve?
+A: The ROC Curve is a graphical representation of the performance of a classification model by plotting the True Positive Rate against the False Positive Rate.
+
+Q: What is AUC in Machine Learning?
+A: AUC (Area Under the Curve) in Machine Learning is the area under the ROC Curve and is used to evaluate the performance of a classification model.
+
+Q: What is Feature Selection?
+A: Feature Selection is the process of selecting the most relevant features from a dataset to improve the performance of a Machine Learning model.
+
+Q: What is Feature Extraction?
+A: Feature Extraction is the process of transforming raw data into a set of features that can be used to train a Machine Learning model.
+
+Q: What is Dimensionality Reduction?
+A: Dimensionality Reduction is the process of reducing the number of features in a dataset while preserving the most important information.
+
+Q: What is Clustering?
+A: Clustering is a type of Unsupervised Learning where the algorithm groups similar data points together.
+
+Q: What is K-Means Clustering?
+A: K-Means Clustering is a popular clustering algorithm that groups data points into K clusters based on their similarity.
+
+Q: What is Decision Tree?
+A: Decision Tree is a type of Supervised Learning where the algorithm creates a tree-like model of decisions and their possible consequences.
+
+Q: What is Random Forest?
+A: Random Forest is an ensemble learning method that combines multiple Decision Trees to improve the performance of a Machine Learning model.
+
+Q: What is Gradient Boosting?
+A: Gradient Boosting is an ensemble learning method that combines multiple weak models to create a strong model.
+
+Q: What is Neural Network?
+A: Neural Network is a type of Machine Learning that is inspired by the structure and function of the human brain.
+
+Q: What is Deep Learning?
+A: Deep Learning is a subset of Machine Learning that uses Neural Networks with multiple layers to learn from data.
+
+Q: What is Convolutional Neural Network?
+A: Convolutional Neural Network is a type of Neural Network that is commonly used for image recognition and processing.
+
+Q: What is Recurrent Neural Network?
+A: Recurrent Neural Network is a type of Neural Network that is commonly used for sequence data such as text and speech.
+
+Q: What is Transfer Learning?
+A: Transfer Learning is a technique used in Machine Learning where a pre-trained model is used as a starting point for a new model.
+
+Q: What is Natural Language Processing?
+A: Natural Language Processing is a field of study that focuses on the interaction between computers and human languages.
+
+Q: What is Sentiment Analysis?
+A: Sentiment Analysis is a type of Natural Language Processing that involves analyzing and categorizing opinions expressed in text.
+
+Q: What is Image Recognition?
+A: Image Recognition is a type of Machine Learning that involves identifying and classifying objects in images.
+
+Q: What is Object Detection?
+A: Object Detection is a type of Machine Learning that involves identifying and localizing objects in images.
+
+Q: What is Reinforcement Learning in Robotics?
+A: Reinforcement Learning in Robotics involves training robots to learn from their environment and interact with it to achieve a specific goal.
+
+Q: What is Anomaly Detection?
+A: Anomaly Detection is a type of Machine Learning that involves identifying rare or unusual events in data.
+
+Q: What is Collaborative Filtering?
+A: Collaborative Filtering is a type of Machine Learning that involves predicting the preferences of a user based on the preferences of similar users.
+
+Q: What is a Recommendation System?
+A: A Recommendation System is a type of Machine Learning that provides personalized recommendations to users based on their preferences and behavior.
+
+Q: What is a Generative Adversarial Network?
+A: A Generative Adversarial Network is a type of Neural Network that consists of two models, a generator and a discriminator, that work together to generate new data that is similar to the training data.
+
+Q: What is Autoencoder?
+A: Autoencoder is a type of Neural Network that is commonly used for unsupervised learning and dimensionality reduction.

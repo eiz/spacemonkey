@@ -1,0 +1,122 @@
+Q: What is genetics?
+A: Genetics is the study of genes, heredity, and genetic variation in living organisms.
+
+Q: What are genes?
+A: Genes are segments of DNA that contain the instructions for the development and function of living organisms.
+
+Q: What is DNA?
+A: DNA (deoxyribonucleic acid) is a molecule that carries genetic information in all living organisms.
+
+Q: What is a chromosome?
+A: A chromosome is a structure made of DNA and protein that carries genetic information in the nucleus of a cell.
+
+Q: How many chromosomes do humans have?
+A: Humans have 46 chromosomes, 23 from each parent.
+
+Q: What is a genome?
+A: A genome is the complete set of genetic information in an organism.
+
+Q: What is a mutation?
+A: A mutation is a change in the DNA sequence that can affect the function of a gene.
+
+Q: What is genetic variation?
+A: Genetic variation refers to the differences in DNA sequences among individuals within a population.
+
+Q: What is heredity?
+A: Heredity is the passing of traits from parents to offspring through genes.
+
+Q: What is a trait?
+A: A trait is a characteristic that is determined by genes, such as eye color or height.
+
+Q: What is a dominant trait?
+A: A dominant trait is a trait that is expressed when an individual has one or two copies of the dominant allele.
+
+Q: What is a recessive trait?
+A: A recessive trait is a trait that is expressed only when an individual has two copies of the recessive allele.
+
+Q: What is an allele?
+A: An allele is a variant form of a gene that determines a particular trait.
+
+Q: What is a genotype?
+A: A genotype is the genetic makeup of an individual, including all of its alleles.
+
+Q: What is a phenotype?
+A: A phenotype is the observable traits of an individual, which are determined by its genotype and the environment.
+
+Q: What is a homozygous genotype?
+A: A homozygous genotype is one in which an individual has two identical alleles for a particular gene.
+
+Q: What is a heterozygous genotype?
+A: A heterozygous genotype is one in which an individual has two different alleles for a particular gene.
+
+Q: What is a punnett square?
+A: A punnett square is a diagram used to predict the possible genotypes and phenotypes of offspring from a cross between two individuals.
+
+Q: What is a monohybrid cross?
+A: A monohybrid cross is a cross between two individuals that differ in only one trait.
+
+Q: What is a dihybrid cross?
+A: A dihybrid cross is a cross between two individuals that differ in two traits.
+
+Q: What is a pedigree?
+A: A pedigree is a diagram that shows the inheritance of a particular trait through several generations of a family.
+
+Q: What is a carrier?
+A: A carrier is an individual who has one copy of a recessive allele for a particular gene, but does not express the trait.
+
+Q: What is a genetic disorder?
+A: A genetic disorder is a condition caused by mutations or abnormalities in one or more genes.
+
+Q: What is a genetic test?
+A: A genetic test is a medical test that analyzes an individual's DNA to identify genetic variations that may be associated with a particular disease or condition.
+
+Q: What is genetic counseling?
+A: Genetic counseling is a process in which a trained professional helps individuals and families understand the risks and implications of genetic testing and genetic disorders.
+
+Q: What is gene therapy?
+A: Gene therapy is a medical treatment that involves the introduction of new genes into a patient's cells to treat or prevent a disease.
+
+Q: What is cloning?
+A: Cloning is the process of creating an identical copy of an organism or cell.
+
+Q: What is genetic engineering?
+A: Genetic engineering is the manipulation of an organism's DNA to produce desired traits or characteristics.
+
+Q: What is CRISPR?
+A: CRISPR is a gene editing technology that allows scientists to make precise changes to DNA sequences.
+
+Q: What is a genetically modified organism (GMO)?
+A: A genetically modified organism (GMO) is an organism whose DNA has been altered using genetic engineering techniques.
+
+Q: What is epigenetics?
+A: Epigenetics is the study of changes in gene expression that are not caused by changes in the DNA sequence itself.
+
+Q: What is a genome-wide association study (GWAS)?
+A: A genome-wide association study (GWAS) is a type of genetic study that looks for associations between genetic variations and particular traits or diseases in large populations.
+
+Q: What is personalized medicine?
+A: Personalized medicine is a medical approach that uses an individual's genetic information to tailor treatments and therapies to their specific needs.
+
+Q: What is a genetic counselor?
+A: A genetic counselor is a healthcare professional who specializes in helping individuals and families understand the risks and implications of genetic testing and genetic disorders.
+
+Q: What is a geneticist?
+A: A geneticist is a scientist who studies genetics and genetic variation in living organisms.
+
+Q: What is a genetic marker?
+A: A genetic marker is a DNA sequence that can be used to identify the location of a particular gene or trait.
+
+Q: What is a single nucleotide polymorphism (SNP)?
+A: A single nucleotide polymorphism (SNP) is a variation in a single nucleotide in a DNA sequence that can be used as a genetic marker.
+
+Q: What is a copy number variation (CNV)?
+A: A copy number variation (CNV) is a genetic variation in which the number of copies of a particular gene or DNA sequence varies among individuals.
+
+Q: What is a genome sequencing?
+A: Genome sequencing is the process of determining the complete DNA sequence of an organism's genome.
+
+Q: What is a gene expression?
+A: Gene expression is the process by which the information in a gene is used to synthesize a functional gene product, such as a protein.
+
+Q: What is a gene pool?
+A: A gene pool is the total collection of genes and alleles in a population.

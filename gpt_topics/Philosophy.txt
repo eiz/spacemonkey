@@ -1,0 +1,131 @@
+Q: What is philosophy?
+A: Philosophy is the study of fundamental questions about existence, knowledge, values, reason, mind, and language.
+
+Q: What is the difference between philosophy and science?
+A: Philosophy is concerned with questions that cannot be answered by empirical observation or experimentation, while science is concerned with questions that can be answered by empirical observation or experimentation.
+
+Q: What is metaphysics?
+A: Metaphysics is the branch of philosophy that deals with questions about the nature of reality, including questions about the existence of God, the nature of the mind, and the relationship between mind and body.
+
+Q: What is epistemology?
+A: Epistemology is the branch of philosophy that deals with questions about knowledge, including questions about the nature of knowledge, how we acquire knowledge, and how we can be certain of what we know.
+
+Q: What is ethics?
+A: Ethics is the branch of philosophy that deals with questions about morality, including questions about what is right and wrong, good and bad, and how we should live our lives.
+
+Q: What is logic?
+A: Logic is the branch of philosophy that deals with questions about reasoning, including questions about how to evaluate arguments and how to distinguish between valid and invalid arguments.
+
+Q: What is aesthetics?
+A: Aesthetics is the branch of philosophy that deals with questions about beauty, art, and taste, including questions about what makes something beautiful or artistic.
+
+Q: What is the meaning of life?
+A: The meaning of life is a philosophical question that has been debated for centuries. Some philosophers argue that life has no inherent meaning, while others argue that the meaning of life is to find happiness, to fulfill one's potential, or to serve a higher purpose.
+
+Q: What is the mind-body problem?
+A: The mind-body problem is a philosophical question about the relationship between the mind and the body. Some philosophers argue that the mind and body are separate entities, while others argue that they are intimately connected.
+
+Q: What is free will?
+A: Free will is the philosophical question about whether humans have the ability to make choices that are not determined by prior causes or external factors.
+
+Q: What is determinism?
+A: Determinism is the philosophical idea that all events, including human actions, are ultimately determined by prior causes or external factors.
+
+Q: What is existentialism?
+A: Existentialism is a philosophical movement that emphasizes individual freedom and choice, and the search for meaning and purpose in life.
+
+Q: What is nihilism?
+A: Nihilism is a philosophical belief that life has no inherent meaning or value.
+
+Q: What is relativism?
+A: Relativism is the philosophical belief that truth and morality are relative to the individual or culture, and that there are no objective standards of truth or morality.
+
+Q: What is skepticism?
+A: Skepticism is the philosophical belief that knowledge is uncertain and that we should always question our beliefs and assumptions.
+
+Q: What is the Socratic method?
+A: The Socratic method is a method of questioning used in philosophy and education, in which a series of questions are asked to encourage critical thinking and to expose the contradictions in someone's beliefs.
+
+Q: What is the difference between deductive and inductive reasoning?
+A: Deductive reasoning is a form of reasoning in which a conclusion is drawn from a set of premises that are assumed to be true. Inductive reasoning is a form of reasoning in which a conclusion is drawn from a set of observations or evidence.
+
+Q: What is the difference between a priori and a posteriori knowledge?
+A: A priori knowledge is knowledge that is known independently of experience or observation. A posteriori knowledge is knowledge that is known through experience or observation.
+
+Q: What is the difference between analytic and synthetic statements?
+A: Analytic statements are statements that are true by definition, such as "all bachelors are unmarried." Synthetic statements are statements that are true or false based on empirical observation or evidence, such as "the sky is blue."
+
+Q: What is the difference between necessary and contingent truths?
+A: Necessary truths are truths that are true in all possible worlds, such as "2+2=4." Contingent truths are truths that are true in some possible worlds but not others, such as "the sky is blue."
+
+Q: What is the difference between a proposition and a predicate?
+A: A proposition is a statement that expresses a complete thought or idea, such as "the cat is on the mat." A predicate is the part of a proposition that expresses what is said about the subject, such as "is on the mat."
+
+Q: What is the difference between a deductive and an inductive argument?
+A: A deductive argument is an argument in which the conclusion necessarily follows from the premises. An inductive argument is an argument in which the conclusion is probable based on the premises.
+
+Q: What is the difference between a valid and a sound argument?
+A: A valid argument is an argument in which the conclusion necessarily follows from the premises. A sound argument is a valid argument with true premises.
+
+Q: What is the difference between a fallacy and a valid argument?
+A: A fallacy is an error in reasoning that makes an argument invalid. A valid argument is an argument in which the conclusion necessarily follows from the premises.
+
+Q: What is the difference between a moral and an ethical question?
+A: A moral question is a question about what is right or wrong, good or bad, in a particular situation. An ethical question is a question about what is morally right or wrong in general.
+
+Q: What is the difference between consequentialism and deontology?
+A: Consequentialism is a moral theory that emphasizes the consequences of actions, while deontology is a moral theory that emphasizes the moral rules or duties that should guide our actions.
+
+Q: What is the difference between virtue ethics and consequentialism?
+A: Virtue ethics is a moral theory that emphasizes the character traits or virtues that should guide our actions, while consequentialism is a moral theory that emphasizes the consequences of actions.
+
+Q: What is the difference between moral relativism and moral absolutism?
+A: Moral relativism is the belief that moral truths are relative to the individual or culture, while moral absolutism is the belief that there are objective moral truths that apply to all individuals and cultures.
+
+Q: What is the difference between natural law and positive law?
+A: Natural law is the belief that there are inherent moral laws that are discoverable through reason, while positive law is the belief that laws are created by human authority and can be changed by human authority.
+
+Q: What is the difference between utilitarianism and Kantian ethics?
+A: Utilitarianism is a moral theory that emphasizes the greatest happiness for the greatest number of people, while Kantian ethics is a moral theory that emphasizes the moral rules or duties that should guide our actions.
+
+Q: What is the difference between egoism and altruism?
+A: Egoism is the belief that individuals should act in their own self-interest, while altruism is the belief that individuals should act in the interest of others.
+
+Q: What is the difference between determinism and fatalism?
+A: Determinism is the belief that all events, including human actions, are ultimately determined by prior causes or external factors. Fatalism is the belief that all events, including human actions, are predetermined and inevitable.
+
+Q: What is the difference between objectivity and subjectivity?
+A: Objectivity is the quality of being unbiased and impartial, while subjectivity is the quality of being influenced by personal feelings, opinions, or biases.
+
+Q: What is the difference between ontology and epistemology?
+A: Ontology is the branch of philosophy that deals with questions about the nature of reality, while epistemology is the branch of philosophy that deals with questions about knowledge.
+
+Q: What is the difference between a theory and a hypothesis?
+A: A theory is a well-established explanation for a set of phenomena, while a hypothesis is a tentative explanation for a set of phenomena that has not yet been fully tested.
+
+Q: What is the difference between a fact and an opinion?
+A: A fact is a statement that can be proven or verified, while an opinion is a statement that reflects a personal belief or judgment.
+
+Q: What is the difference between a belief and a knowledge claim?
+A: A belief is a personal conviction or acceptance of a proposition, while a knowledge claim is a statement that asserts a proposition as true and justified.
+
+Q: What is the difference between a deductive and an inductive inference?
+A: A deductive inference is an inference in which the conclusion necessarily follows from the premises. An inductive inference is an inference in which the conclusion is probable based on the premises.
+
+Q: What is the difference between a necessary and a sufficient condition?
+A: A necessary condition is a condition that must be present for a particular outcome to occur. A sufficient condition is a condition that, if present, guarantees a particular outcome.
+
+Q: What is the difference between a deductive and an inductive proof?
+A: A deductive proof is a proof that uses deductive reasoning to demonstrate the truth of a proposition. An inductive proof is a proof that uses inductive reasoning to demonstrate the probability of a proposition.
+
+Q: What is the difference between a priori and a posteriori justification?
+A: A priori justification is justification that is independent of experience or observation. A posteriori justification is justification that is based on experience or observation.
+
+Q: What is the difference between a necessary and a contingent property?
+A: A necessary property is a property that an object must have in order to exist. A contingent property is a property that an object may or may not have, depending on the circumstances.
+
+Q: What is the difference between a necessary and a sufficient explanation?
+A: A necessary explanation is an explanation that must be true in order to explain a particular phenomenon. A sufficient explanation is an explanation that, if true, fully explains a particular phenomenon.
+
+Q: What is the difference between a necessary and a sufficient cause?
+A: A necessary cause is a cause that must be present for a particular effect to occur. A sufficient cause is a cause that, if present, guarantees a particular effect.

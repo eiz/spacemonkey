@@ -1,0 +1,128 @@
+Q: What is Artificial Intelligence?
+A: Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans.
+
+Q: What are the different types of AI?
+A: The different types of AI are Reactive Machines, Limited Memory, Theory of Mind, and Self-Aware.
+
+Q: What is Machine Learning?
+A: Machine Learning is a subset of AI that allows machines to learn from data without being explicitly programmed.
+
+Q: What is Deep Learning?
+A: Deep Learning is a subset of Machine Learning that uses neural networks to learn from data.
+
+Q: What is Natural Language Processing?
+A: Natural Language Processing (NLP) is a branch of AI that deals with the interaction between computers and humans using natural language.
+
+Q: What is Robotics?
+A: Robotics is a branch of AI that deals with the design, construction, and operation of robots.
+
+Q: What is Computer Vision?
+A: Computer Vision is a branch of AI that deals with enabling computers to interpret and understand visual data from the world.
+
+Q: What is an AI algorithm?
+A: An AI algorithm is a set of instructions that a machine follows to perform a specific task.
+
+Q: What is an AI model?
+A: An AI model is a mathematical representation of a problem that a machine learning algorithm can solve.
+
+Q: What is an AI system?
+A: An AI system is a combination of hardware and software that can perform intelligent tasks.
+
+Q: What is an AI application?
+A: An AI application is a software program that uses AI algorithms to perform specific tasks.
+
+Q: What is an AI platform?
+A: An AI platform is a software framework that provides tools and services for developing AI applications.
+
+Q: What is an AI assistant?
+A: An AI assistant is a software program that uses AI algorithms to assist users in performing tasks.
+
+Q: What is an AI chatbot?
+A: An AI chatbot is a software program that uses AI algorithms to simulate human conversation.
+
+Q: What is an AI agent?
+A: An AI agent is a software program that acts on behalf of a user or another program.
+
+Q: What is an AI expert system?
+A: An AI expert system is a software program that uses AI algorithms to solve complex problems in a specific domain.
+
+Q: What is an AI neural network?
+A: An AI neural network is a set of algorithms that are modeled after the structure of the human brain.
+
+Q: What is an AI decision tree?
+A: An AI decision tree is a model that uses a tree-like structure to represent decisions and their possible consequences.
+
+Q: What is an AI reinforcement learning?
+A: AI reinforcement learning is a type of machine learning that uses rewards and punishments to teach machines how to make decisions.
+
+Q: What is an AI unsupervised learning?
+A: AI unsupervised learning is a type of machine learning where the machine learns from data without any supervision.
+
+Q: What is an AI supervised learning?
+A: AI supervised learning is a type of machine learning where the machine learns from labeled data.
+
+Q: What is an AI semi-supervised learning?
+A: AI semi-supervised learning is a type of machine learning where the machine learns from a combination of labeled and unlabeled data.
+
+Q: What is an AI transfer learning?
+A: AI transfer learning is a type of machine learning where the machine learns from one task and applies that knowledge to another task.
+
+Q: What is an AI generative model?
+A: An AI generative model is a type of machine learning model that can generate new data based on the patterns it has learned from existing data.
+
+Q: What is an AI discriminative model?
+A: An AI discriminative model is a type of machine learning model that can classify data into different categories based on the patterns it has learned from existing data.
+
+Q: What is an AI ensemble model?
+A: An AI ensemble model is a type of machine learning model that combines multiple models to improve accuracy.
+
+Q: What is an AI bias?
+A: AI bias is the tendency of AI algorithms to make decisions that reflect the biases of their creators or the data they were trained on.
+
+Q: What is an AI fairness?
+A: AI fairness is the principle that AI algorithms should not discriminate against individuals or groups based on their race, gender, or other characteristics.
+
+Q: What is an AI explainability?
+A: AI explainability is the ability of AI algorithms to explain how they arrived at a particular decision.
+
+Q: What is an AI interpretability?
+A: AI interpretability is the ability of humans to understand how AI algorithms work.
+
+Q: What is an AI transparency?
+A: AI transparency is the principle that AI algorithms should be open and transparent about how they make decisions.
+
+Q: What is an AI accountability?
+A: AI accountability is the principle that individuals and organizations should be held responsible for the decisions made by AI algorithms.
+
+Q: What is an AI privacy?
+A: AI privacy is the principle that individuals should have control over their personal data and how it is used by AI algorithms.
+
+Q: What is an AI security?
+A: AI security is the principle that AI systems should be protected against unauthorized access, use, or modification.
+
+Q: What is an AI scalability?
+A: AI scalability is the ability of AI systems to handle large amounts of data and perform complex tasks.
+
+Q: What is an AI agility?
+A: AI agility is the ability of AI systems to adapt to changing circumstances and learn from new data.
+
+Q: What is an AI robustness?
+A: AI robustness is the ability of AI systems to perform well in the face of unexpected inputs or changes in the environment.
+
+Q: What is an AI reliability?
+A: AI reliability is the ability of AI systems to perform consistently and accurately over time.
+
+Q: What is an AI efficiency?
+A: AI efficiency is the ability of AI systems to perform tasks quickly and with minimal resources.
+
+Q: What is an AI accuracy?
+A: AI accuracy is the ability of AI systems to make correct decisions and predictions.
+
+Q: What is an AI precision?
+A: AI precision is the ability of AI systems to make consistent decisions and predictions.
+
+Q: What is an AI recall?
+A: AI recall is the ability of AI systems to identify all relevant information in a given dataset.
+
+Q: What is an AI F1 score?
+A: AI F1 score is a measure of the overall performance of an AI system that takes into account both precision and recall.

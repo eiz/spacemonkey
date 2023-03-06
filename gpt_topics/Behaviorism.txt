@@ -1,0 +1,125 @@
+Q: What is behaviorism?
+A: Behaviorism is a psychological theory that focuses on observable behaviors and the environmental factors that shape them.
+
+Q: Who is the founder of behaviorism?
+A: John B. Watson is considered the founder of behaviorism.
+
+Q: What is classical conditioning?
+A: Classical conditioning is a type of learning where a neutral stimulus is paired with a stimulus that naturally produces a response, eventually causing the neutral stimulus to produce the same response.
+
+Q: Who is known for the famous experiment with dogs and classical conditioning?
+A: Ivan Pavlov is known for his famous experiment with dogs and classical conditioning.
+
+Q: What is operant conditioning?
+A: Operant conditioning is a type of learning where behavior is shaped by the consequences that follow it.
+
+Q: Who is known for the concept of operant conditioning?
+A: B.F. Skinner is known for the concept of operant conditioning.
+
+Q: What is reinforcement?
+A: Reinforcement is a consequence that increases the likelihood of a behavior being repeated.
+
+Q: What is punishment?
+A: Punishment is a consequence that decreases the likelihood of a behavior being repeated.
+
+Q: What is positive reinforcement?
+A: Positive reinforcement is adding a desirable consequence to increase the likelihood of a behavior being repeated.
+
+Q: What is negative reinforcement?
+A: Negative reinforcement is removing an aversive consequence to increase the likelihood of a behavior being repeated.
+
+Q: What is positive punishment?
+A: Positive punishment is adding an aversive consequence to decrease the likelihood of a behavior being repeated.
+
+Q: What is negative punishment?
+A: Negative punishment is removing a desirable consequence to decrease the likelihood of a behavior being repeated.
+
+Q: What is shaping?
+A: Shaping is the process of gradually molding a behavior by reinforcing closer and closer approximations of the desired behavior.
+
+Q: What is chaining?
+A: Chaining is the process of linking a series of behaviors together to form a more complex behavior.
+
+Q: What is extinction?
+A: Extinction is the process of gradually reducing the frequency of a behavior by withholding reinforcement.
+
+Q: What is spontaneous recovery?
+A: Spontaneous recovery is the reappearance of a behavior that had previously been extinguished.
+
+Q: What is generalization?
+A: Generalization is the tendency for a behavior to occur in situations similar to the one in which it was reinforced.
+
+Q: What is discrimination?
+A: Discrimination is the ability to distinguish between similar stimuli and respond differently to them.
+
+Q: What is a stimulus?
+A: A stimulus is any object or event that elicits a response.
+
+Q: What is a response?
+A: A response is any behavior or action that follows a stimulus.
+
+Q: What is a conditioned stimulus?
+A: A conditioned stimulus is a neutral stimulus that has been paired with an unconditioned stimulus to elicit a response.
+
+Q: What is an unconditioned stimulus?
+A: An unconditioned stimulus is a stimulus that naturally elicits a response without prior learning.
+
+Q: What is an unconditioned response?
+A: An unconditioned response is a natural response to an unconditioned stimulus.
+
+Q: What is a conditioned response?
+A: A conditioned response is a learned response to a conditioned stimulus.
+
+Q: What is a fixed ratio schedule of reinforcement?
+A: A fixed ratio schedule of reinforcement is a schedule where reinforcement is delivered after a fixed number of responses.
+
+Q: What is a variable ratio schedule of reinforcement?
+A: A variable ratio schedule of reinforcement is a schedule where reinforcement is delivered after an unpredictable number of responses.
+
+Q: What is a fixed interval schedule of reinforcement?
+A: A fixed interval schedule of reinforcement is a schedule where reinforcement is delivered after a fixed amount of time has passed.
+
+Q: What is a variable interval schedule of reinforcement?
+A: A variable interval schedule of reinforcement is a schedule where reinforcement is delivered after an unpredictable amount of time has passed.
+
+Q: What is a primary reinforcer?
+A: A primary reinforcer is a reinforcer that is naturally rewarding, such as food or water.
+
+Q: What is a secondary reinforcer?
+A: A secondary reinforcer is a reinforcer that has been associated with a primary reinforcer, such as money or praise.
+
+Q: What is a token economy?
+A: A token economy is a system where tokens are given as reinforcement for desirable behaviors, which can later be exchanged for rewards.
+
+Q: What is observational learning?
+A: Observational learning is learning by watching others and imitating their behavior.
+
+Q: Who is known for the concept of observational learning?
+A: Albert Bandura is known for the concept of observational learning.
+
+Q: What is modeling?
+A: Modeling is the process of observing and imitating a specific behavior.
+
+Q: What is vicarious reinforcement?
+A: Vicarious reinforcement is the process of learning by observing the consequences of someone else's behavior.
+
+Q: What is the social learning theory?
+A: The social learning theory is a theory that emphasizes the role of observation and imitation in learning, as well as the influence of social factors on behavior.
+
+Q: What is the law of effect?
+A: The law of effect is the principle that behaviors that are followed by positive consequences are more likely to be repeated, while behaviors that are followed by negative consequences are less likely to be repeated.
+
+Q: What is the difference between classical and operant conditioning?
+A: Classical conditioning is a type of learning where a neutral stimulus is paired with a stimulus that naturally produces a response, while operant conditioning is a type of learning where behavior is shaped by the consequences that follow it.
+
+Q: What is the difference between positive and negative reinforcement?
+A: Positive reinforcement is adding a desirable consequence to increase the likelihood of a behavior being repeated, while negative reinforcement is removing an aversive consequence to increase the likelihood of a behavior being repeated.
+
+Q: What is the difference between positive and negative punishment?
+A: Positive punishment is adding an aversive consequence to decrease the likelihood of a behavior being repeated, while negative punishment is removing a desirable consequence to decrease the likelihood of a behavior being repeated.
+
+Q: What is the difference between generalization and discrimination?
+A: Generalization is the tendency for a behavior to occur in situations similar to the one in which it was reinforced, while discrimination is the ability to distinguish between similar stimuli and respond differently to them.
+
+Q: What is the difference between a primary and secondary reinforcer?
+A: A primary reinforcer is a reinforcer that is naturally rewarding, such as food or water, while a secondary reinforcer is a reinforcer that has been associated with a primary reinforcer, such as money or praise.

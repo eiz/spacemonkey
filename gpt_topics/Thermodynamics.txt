@@ -1,0 +1,134 @@
+Q: What is thermodynamics?
+A: Thermodynamics is the branch of physics that deals with the relationships between heat, work, and energy.
+
+Q: What is the first law of thermodynamics?
+A: The first law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted from one form to another.
+
+Q: What is the second law of thermodynamics?
+A: The second law of thermodynamics states that the total entropy of a closed system will always increase over time.
+
+Q: What is entropy?
+A: Entropy is a measure of the disorder or randomness of a system.
+
+Q: What is the difference between heat and temperature?
+A: Heat is the transfer of energy from one object to another due to a temperature difference, while temperature is a measure of the average kinetic energy of the particles in an object.
+
+Q: What is thermal equilibrium?
+A: Thermal equilibrium is the state in which two objects are at the same temperature and there is no net transfer of heat between them.
+
+Q: What is a thermodynamic system?
+A: A thermodynamic system is a region of space that is being studied in thermodynamics.
+
+Q: What is an open system?
+A: An open system is a system that can exchange both matter and energy with its surroundings.
+
+Q: What is a closed system?
+A: A closed system is a system that can exchange energy but not matter with its surroundings.
+
+Q: What is an isolated system?
+A: An isolated system is a system that cannot exchange either matter or energy with its surroundings.
+
+Q: What is work in thermodynamics?
+A: Work is the transfer of energy that occurs when a force is applied over a distance.
+
+Q: What is the formula for work?
+A: Work = force x distance
+
+Q: What is the unit of work?
+A: The unit of work is the joule (J).
+
+Q: What is the formula for power?
+A: Power = work/time
+
+Q: What is the unit of power?
+A: The unit of power is the watt (W).
+
+Q: What is the formula for efficiency?
+A: Efficiency = (useful energy output / total energy input) x 100%
+
+Q: What is the Carnot cycle?
+A: The Carnot cycle is a theoretical thermodynamic cycle that is the most efficient possible engine cycle.
+
+Q: What is a heat engine?
+A: A heat engine is a device that converts thermal energy into mechanical energy.
+
+Q: What is a refrigerator?
+A: A refrigerator is a device that transfers heat from a cooler region to a warmer region.
+
+Q: What is a heat pump?
+A: A heat pump is a device that transfers heat from a cooler region to a warmer region using external work.
+
+Q: What is the coefficient of performance (COP)?
+A: The coefficient of performance (COP) is a measure of the efficiency of a refrigerator or heat pump.
+
+Q: What is the formula for the COP of a refrigerator?
+A: COP = (heat removed from the cold reservoir / work input)
+
+Q: What is the formula for the COP of a heat pump?
+A: COP = (heat delivered to the warm reservoir / work input)
+
+Q: What is the ideal gas law?
+A: The ideal gas law is a relationship between pressure, volume, temperature, and the number of particles in a gas.
+
+Q: What is the formula for the ideal gas law?
+A: PV = nRT, where P is pressure, V is volume, n is the number of particles, R is the gas constant, and T is temperature.
+
+Q: What is the gas constant?
+A: The gas constant is a constant that relates the pressure, volume, temperature, and number of particles of a gas.
+
+Q: What is the specific heat capacity?
+A: The specific heat capacity is the amount of heat required to raise the temperature of one unit of mass of a substance by one degree Celsius.
+
+Q: What is the formula for the specific heat capacity?
+A: Q = mcΔT, where Q is the heat transferred, m is the mass of the substance, c is the specific heat capacity, and ΔT is the change in temperature.
+
+Q: What is the latent heat of fusion?
+A: The latent heat of fusion is the amount of heat required to change a substance from a solid to a liquid at its melting point.
+
+Q: What is the latent heat of vaporization?
+A: The latent heat of vaporization is the amount of heat required to change a substance from a liquid to a gas at its boiling point.
+
+Q: What is the first law of thermodynamics applied to a closed system?
+A: The first law of thermodynamics applied to a closed system states that the change in internal energy of the system is equal to the heat added to the system minus the work done by the system.
+
+Q: What is the second law of thermodynamics applied to a closed system?
+A: The second law of thermodynamics applied to a closed system states that the total entropy of the system and its surroundings will always increase over time.
+
+Q: What is the third law of thermodynamics?
+A: The third law of thermodynamics states that it is impossible to reach absolute zero (0 Kelvin) in a finite number of steps.
+
+Q: What is the difference between reversible and irreversible processes?
+A: Reversible processes are processes that can be reversed without any net change in the system or its surroundings, while irreversible processes cannot be reversed without a net change.
+
+Q: What is the formula for the change in entropy?
+A: ΔS = Q/T, where ΔS is the change in entropy, Q is the heat transferred, and T is the temperature.
+
+Q: What is the formula for the change in free energy?
+A: ΔG = ΔH - TΔS, where ΔG is the change in free energy, ΔH is the change in enthalpy, T is the temperature, and ΔS is the change in entropy.
+
+Q: What is the difference between enthalpy and internal energy?
+A: Enthalpy is the sum of the internal energy of a system and the product of its pressure and volume, while internal energy is the total energy of a system.
+
+Q: What is the difference between heat and enthalpy?
+A: Heat is the transfer of energy due to a temperature difference, while enthalpy is a measure of the total energy of a system.
+
+Q: What is the difference between exothermic and endothermic reactions?
+A: Exothermic reactions release heat to the surroundings, while endothermic reactions absorb heat from the surroundings.
+
+Q: What is the heat of reaction?
+A: The heat of reaction is the amount of heat released or absorbed during a chemical reaction.
+
+Q: What is the formula for the heat of reaction?
+A: ΔH = H(products) - H(reactants), where ΔH is the heat of reaction, H(products) is the enthalpy of the products, and H(reactants) is the enthalpy of the reactants.
+
+Q: What is the difference between a state function and a path function?
+A: A state function depends only on the initial and final states of a system, while a path function depends on the path taken between the initial and final states.
+
+Q: What is the difference between a reversible and an irreversible process?
+A: A reversible process is a process that can be reversed without any net change in the system or its surroundings, while an irreversible process cannot be reversed without a net change.
+
+Q: What is the difference between an adiabatic and an isothermal process?
+A: An adiabatic process is a process in which no heat is transferred between the system and its surroundings, while an isothermal process is a process in which the temperature of the system remains constant.
+
+Q: What is the difference between a closed and an open system?
+A: A closed system is a system that can exchange energy but not matter with its surroundings, while an open system is a system that can exchange both matter and energy with its surroundings.

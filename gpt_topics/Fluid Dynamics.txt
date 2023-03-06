@@ -1,0 +1,122 @@
+Q: What is fluid dynamics?
+A: Fluid dynamics is the study of how fluids behave when they are in motion.
+
+Q: What is a fluid?
+A: A fluid is a substance that can flow and take the shape of its container.
+
+Q: What are the two types of fluids?
+A: The two types of fluids are liquids and gases.
+
+Q: What is the difference between a liquid and a gas?
+A: The main difference between a liquid and a gas is that a liquid has a definite volume, while a gas does not.
+
+Q: What is viscosity?
+A: Viscosity is a measure of a fluid's resistance to flow.
+
+Q: What is the formula for viscosity?
+A: The formula for viscosity is viscosity = shear stress / shear rate.
+
+Q: What is laminar flow?
+A: Laminar flow is a type of fluid flow where the fluid moves in smooth, parallel layers.
+
+Q: What is turbulent flow?
+A: Turbulent flow is a type of fluid flow where the fluid moves in an irregular, chaotic manner.
+
+Q: What is Bernoulli's principle?
+A: Bernoulli's principle states that as the speed of a fluid increases, its pressure decreases.
+
+Q: What is the equation for Bernoulli's principle?
+A: The equation for Bernoulli's principle is P + 1/2ρv^2 + ρgh = constant, where P is pressure, ρ is density, v is velocity, g is acceleration due to gravity, and h is height.
+
+Q: What is the Venturi effect?
+A: The Venturi effect is the reduction in fluid pressure that occurs when a fluid flows through a constricted section of a pipe.
+
+Q: What is Reynolds number?
+A: Reynolds number is a dimensionless quantity that is used to predict whether fluid flow will be laminar or turbulent.
+
+Q: What is the equation for Reynolds number?
+A: The equation for Reynolds number is Re = ρvd/μ, where ρ is density, v is velocity, d is diameter, and μ is viscosity.
+
+Q: What is drag?
+A: Drag is the force that opposes the motion of an object through a fluid.
+
+Q: What is lift?
+A: Lift is the force that is perpendicular to the direction of motion of an object through a fluid.
+
+Q: What is the difference between drag and lift?
+A: The main difference between drag and lift is that drag acts in the direction of motion, while lift acts perpendicular to the direction of motion.
+
+Q: What is the Coanda effect?
+A: The Coanda effect is the tendency of a fluid to follow a curved surface.
+
+Q: What is the Magnus effect?
+A: The Magnus effect is the phenomenon where a spinning object experiences a sideways force due to the rotation of the fluid around it.
+
+Q: What is a boundary layer?
+A: A boundary layer is the thin layer of fluid that forms on the surface of an object that is moving through a fluid.
+
+Q: What is a laminar boundary layer?
+A: A laminar boundary layer is a thin layer of fluid that moves in smooth, parallel layers along the surface of an object.
+
+Q: What is a turbulent boundary layer?
+A: A turbulent boundary layer is a thin layer of fluid that moves in an irregular, chaotic manner along the surface of an object.
+
+Q: What is a wake?
+A: A wake is the region of disturbed flow that forms behind an object that is moving through a fluid.
+
+Q: What is a vortex?
+A: A vortex is a region of fluid that is rotating around an imaginary axis.
+
+Q: What is a jet?
+A: A jet is a high-speed stream of fluid that is ejected from a nozzle.
+
+Q: What is a shear stress?
+A: A shear stress is a force that is applied parallel to a surface.
+
+Q: What is a shear rate?
+A: A shear rate is the rate at which a fluid is sheared.
+
+Q: What is a pressure gradient?
+A: A pressure gradient is a change in pressure over a distance.
+
+Q: What is a stagnation point?
+A: A stagnation point is the point on an object where the fluid velocity is zero.
+
+Q: What is a streamline?
+A: A streamline is a line that is tangent to the velocity vector of a fluid at every point.
+
+Q: What is a stream function?
+A: A stream function is a mathematical function that describes the flow of a fluid.
+
+Q: What is a potential flow?
+A: A potential flow is a type of fluid flow where the velocity of the fluid can be described by a scalar potential function.
+
+Q: What is a boundary condition?
+A: A boundary condition is a condition that must be satisfied at the boundary of a fluid flow problem.
+
+Q: What is a free surface?
+A: A free surface is the surface of a fluid that is not in contact with a solid surface.
+
+Q: What is a wave?
+A: A wave is a disturbance that travels through a medium.
+
+Q: What is a wave speed?
+A: A wave speed is the speed at which a wave travels through a medium.
+
+Q: What is a wave frequency?
+A: A wave frequency is the number of waves that pass a fixed point in a given amount of time.
+
+Q: What is a wave period?
+A: A wave period is the time it takes for one complete wave to pass a fixed point.
+
+Q: What is a wave amplitude?
+A: A wave amplitude is the maximum displacement of a wave from its equilibrium position.
+
+Q: What is a standing wave?
+A: A standing wave is a wave that appears to be stationary.
+
+Q: What is a resonance?
+A: A resonance is the tendency of a system to oscillate at a particular frequency.
+
+Q: What is a shock wave?
+A: A shock wave is a type of wave that is created when a fluid moves faster than the speed of sound.

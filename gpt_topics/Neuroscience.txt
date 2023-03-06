@@ -1,0 +1,125 @@
+Q: What is neuroscience?
+A: Neuroscience is the study of the nervous system, including the brain, spinal cord, and nerves.
+
+Q: What are neurons?
+A: Neurons are specialized cells that transmit information throughout the nervous system.
+
+Q: What is the function of the brainstem?
+A: The brainstem controls basic life-support functions such as breathing, heart rate, and blood pressure.
+
+Q: What is the function of the cerebellum?
+A: The cerebellum is responsible for coordinating movement and balance.
+
+Q: What is the function of the cerebral cortex?
+A: The cerebral cortex is responsible for higher-level functions such as thinking, perception, and decision-making.
+
+Q: What is the function of the hippocampus?
+A: The hippocampus is responsible for forming and storing memories.
+
+Q: What is the function of the amygdala?
+A: The amygdala is responsible for processing emotions, particularly fear.
+
+Q: What is the function of the thalamus?
+A: The thalamus is responsible for relaying sensory information to the cerebral cortex.
+
+Q: What is the function of the hypothalamus?
+A: The hypothalamus is responsible for regulating basic bodily functions such as hunger, thirst, and body temperature.
+
+Q: What is the function of the basal ganglia?
+A: The basal ganglia are responsible for controlling movement and posture.
+
+Q: What is the function of the corpus callosum?
+A: The corpus callosum is a bundle of nerve fibers that connects the two hemispheres of the brain and allows them to communicate with each other.
+
+Q: What is a synapse?
+A: A synapse is the junction between two neurons where information is transmitted from one neuron to another.
+
+Q: What is a neurotransmitter?
+A: A neurotransmitter is a chemical substance that is released by a neuron and transmits signals to other neurons.
+
+Q: What is dopamine?
+A: Dopamine is a neurotransmitter that is involved in reward, motivation, and movement.
+
+Q: What is serotonin?
+A: Serotonin is a neurotransmitter that is involved in mood, appetite, and sleep.
+
+Q: What is acetylcholine?
+A: Acetylcholine is a neurotransmitter that is involved in learning, memory, and muscle movement.
+
+Q: What is norepinephrine?
+A: Norepinephrine is a neurotransmitter that is involved in arousal, attention, and mood.
+
+Q: What is GABA?
+A: GABA is a neurotransmitter that is involved in inhibiting neural activity and reducing anxiety.
+
+Q: What is glutamate?
+A: Glutamate is a neurotransmitter that is involved in excitatory neural activity and learning.
+
+Q: What is an action potential?
+A: An action potential is a brief electrical signal that travels along a neuron and allows it to communicate with other neurons.
+
+Q: What is myelin?
+A: Myelin is a fatty substance that covers the axons of neurons and allows for faster transmission of signals.
+
+Q: What is plasticity?
+A: Plasticity is the ability of the brain to change and adapt in response to experience.
+
+Q: What is neuroplasticity?
+A: Neuroplasticity is the ability of the nervous system to change and adapt in response to experience.
+
+Q: What is neurogenesis?
+A: Neurogenesis is the process of generating new neurons in the brain.
+
+Q: What is a stroke?
+A: A stroke is a medical emergency that occurs when blood flow to the brain is interrupted, causing brain damage.
+
+Q: What is Alzheimer's disease?
+A: Alzheimer's disease is a progressive brain disorder that causes memory loss, cognitive decline, and behavioral changes.
+
+Q: What is Parkinson's disease?
+A: Parkinson's disease is a progressive brain disorder that causes tremors, stiffness, and difficulty with movement.
+
+Q: What is multiple sclerosis?
+A: Multiple sclerosis is a chronic autoimmune disease that affects the nervous system and causes a range of symptoms, including muscle weakness, vision problems, and cognitive impairment.
+
+Q: What is epilepsy?
+A: Epilepsy is a neurological disorder that causes seizures, which are sudden, uncontrolled electrical disturbances in the brain.
+
+Q: What is a concussion?
+A: A concussion is a mild traumatic brain injury that occurs when the brain is jolted or shaken inside the skull.
+
+Q: What is a coma?
+A: A coma is a state of unconsciousness in which a person is unresponsive and cannot be awakened.
+
+Q: What is a neurotransmitter imbalance?
+A: A neurotransmitter imbalance occurs when there is an abnormality in the levels or function of neurotransmitters in the brain, which can lead to a range of neurological and psychiatric disorders.
+
+Q: What is a neurodegenerative disease?
+A: A neurodegenerative disease is a condition in which nerve cells in the brain and spinal cord gradually die, leading to a range of neurological symptoms.
+
+Q: What is neuroimaging?
+A: Neuroimaging is a technique for visualizing the structure and function of the brain using various imaging technologies such as MRI, CT, and PET scans.
+
+Q: What is optogenetics?
+A: Optogenetics is a technique for controlling the activity of neurons using light.
+
+Q: What is transcranial magnetic stimulation?
+A: Transcranial magnetic stimulation is a non-invasive technique for stimulating the brain using magnetic fields.
+
+Q: What is deep brain stimulation?
+A: Deep brain stimulation is a surgical procedure in which electrodes are implanted in the brain to stimulate specific regions and treat neurological disorders.
+
+Q: What is cognitive neuroscience?
+A: Cognitive neuroscience is the study of the neural basis of cognitive processes such as perception, attention, memory, and language.
+
+Q: What is social neuroscience?
+A: Social neuroscience is the study of the neural basis of social behavior and cognition.
+
+Q: What is affective neuroscience?
+A: Affective neuroscience is the study of the neural basis of emotion and motivation.
+
+Q: What is developmental neuroscience?
+A: Developmental neuroscience is the study of the neural basis of development, from prenatal stages to adulthood.
+
+Q: What is computational neuroscience?
+A: Computational neuroscience is the study of the brain using mathematical and computational models to understand its function and behavior.

@@ -1,0 +1,197 @@
+Q: What is physics?
+A: Physics is the study of matter, energy, and their interactions.
+
+Q: What is matter?
+A: Matter is anything that has mass and takes up space.
+
+Q: What is energy?
+A: Energy is the ability to do work.
+
+Q: What is work?
+A: Work is the transfer of energy from one object to another.
+
+Q: What is force?
+A: Force is a push or pull on an object.
+
+Q: What is the formula for force?
+A: Force = mass x acceleration (F=ma)
+
+Q: What is acceleration?
+A: Acceleration is the rate at which an object changes its velocity.
+
+Q: What is velocity?
+A: Velocity is the speed and direction of an object.
+
+Q: What is the formula for velocity?
+A: Velocity = distance/time
+
+Q: What is the formula for speed?
+A: Speed = distance/time
+
+Q: What is the difference between speed and velocity?
+A: Velocity includes direction, while speed does not.
+
+Q: What is momentum?
+A: Momentum is the product of an object's mass and velocity.
+
+Q: What is the formula for momentum?
+A: Momentum = mass x velocity
+
+Q: What is the law of conservation of momentum?
+A: The law of conservation of momentum states that the total momentum of a system of objects remains constant if no external forces act on the system.
+
+Q: What is the law of conservation of energy?
+A: The law of conservation of energy states that energy cannot be created or destroyed, only transferred or transformed from one form to another.
+
+Q: What is potential energy?
+A: Potential energy is energy that is stored in an object due to its position or configuration.
+
+Q: What is kinetic energy?
+A: Kinetic energy is energy that an object possesses due to its motion.
+
+Q: What is the formula for potential energy?
+A: Potential energy = mass x gravity x height (PE=mgh)
+
+Q: What is the formula for kinetic energy?
+A: Kinetic energy = 1/2 x mass x velocity^2 (KE=1/2mv^2)
+
+Q: What is the law of universal gravitation?
+A: The law of universal gravitation states that every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.
+
+Q: What is the formula for the law of universal gravitation?
+A: F = G(m1m2)/r^2
+
+Q: What is G in the law of universal gravitation?
+A: G is the gravitational constant, which is a fundamental constant of nature that relates the strength of the gravitational force to the masses and distances of the objects involved.
+
+Q: What is a wave?
+A: A wave is a disturbance that travels through space and time, transferring energy from one place to another without transferring matter.
+
+Q: What is the wavelength of a wave?
+A: The wavelength of a wave is the distance between two consecutive points on the wave that are in phase.
+
+Q: What is the frequency of a wave?
+A: The frequency of a wave is the number of cycles or oscillations that occur in a given time period.
+
+Q: What is the amplitude of a wave?
+A: The amplitude of a wave is the maximum displacement of a point on the wave from its equilibrium position.
+
+Q: What is the speed of a wave?
+A: The speed of a wave is the distance that the wave travels in a given time period.
+
+Q: What is the electromagnetic spectrum?
+A: The electromagnetic spectrum is the range of all types of electromagnetic radiation, from radio waves to gamma rays.
+
+Q: What is the speed of light?
+A: The speed of light is approximately 299,792,458 meters per second.
+
+Q: What is refraction?
+A: Refraction is the bending of a wave as it passes from one medium to another.
+
+Q: What is reflection?
+A: Reflection is the bouncing back of a wave when it hits a surface that it cannot pass through.
+
+Q: What is diffraction?
+A: Diffraction is the bending of a wave around an obstacle or through an opening.
+
+Q: What is interference?
+A: Interference is the combination of two or more waves that results in a new wave pattern.
+
+Q: What is the Doppler effect?
+A: The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer who is moving relative to the wave source.
+
+Q: What is sound?
+A: Sound is a type of wave that is produced by vibrations in a medium, such as air.
+
+Q: What is the speed of sound?
+A: The speed of sound depends on the medium through which it is traveling, but in air at sea level, it is approximately 343 meters per second.
+
+Q: What is the difference between a longitudinal wave and a transverse wave?
+A: In a longitudinal wave, the particles of the medium vibrate parallel to the direction of wave propagation, while in a transverse wave, the particles vibrate perpendicular to the direction of wave propagation.
+
+Q: What is a standing wave?
+A: A standing wave is a wave pattern that is produced when two waves of the same frequency and amplitude travel in opposite directions and interfere with each other.
+
+Q: What is resonance?
+A: Resonance is the tendency of a system to vibrate with increasing amplitude at certain frequencies of excitation.
+
+Q: What is a simple harmonic oscillator?
+A: A simple harmonic oscillator is a system that exhibits periodic motion that is sinusoidal and has a constant frequency.
+
+Q: What is the period of a simple harmonic oscillator?
+A: The period of a simple harmonic oscillator is the time it takes for one complete cycle of motion.
+
+Q: What is the formula for the period of a simple harmonic oscillator?
+A: Period = 2π√(m/k)
+
+Q: What is the amplitude of a simple harmonic oscillator?
+A: The amplitude of a simple harmonic oscillator is the maximum displacement from equilibrium.
+
+Q: What is the formula for the amplitude of a simple harmonic oscillator?
+A: Amplitude = x0
+
+Q: What is the frequency of a simple harmonic oscillator?
+A: The frequency of a simple harmonic oscillator is the number of cycles per unit time.
+
+Q: What is the formula for the frequency of a simple harmonic oscillator?
+A: Frequency = 1/2π√(k/m)
+
+Q: What is the difference between a series circuit and a parallel circuit?
+A: In a series circuit, the components are connected in a single path, while in a parallel circuit, the components are connected in multiple paths.
+
+Q: What is Ohm's law?
+A: Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points.
+
+Q: What is the formula for Ohm's law?
+A: V = IR
+
+Q: What is resistance?
+A: Resistance is the opposition of a material to the flow of electric current.
+
+Q: What is the formula for resistance?
+A: Resistance = voltage/current (R=V/I)
+
+Q: What is electric power?
+A: Electric power is the rate at which electric energy is transferred by an electric circuit.
+
+Q: What is the formula for electric power?
+A: Power = voltage x current (P=VI)
+
+Q: What is a capacitor?
+A: A capacitor is an electronic component that stores electric charge.
+
+Q: What is an inductor?
+A: An inductor is an electronic component that stores energy in a magnetic field.
+
+Q: What is an electric field?
+A: An electric field is a region of space around a charged object where an electric force can be exerted on another charged object.
+
+Q: What is a magnetic field?
+A: A magnetic field is a region of space around a magnet or a moving electric charge where a magnetic force can be exerted on another magnet or moving electric charge.
+
+Q: What is the difference between a conductor and an insulator?
+A: A conductor is a material that allows electric current to flow through it easily, while an insulator is a material that does not allow electric current to flow through it easily.
+
+Q: What is a semiconductor?
+A: A semiconductor is a material that has electrical conductivity between that of a conductor and an insulator.
+
+Q: What is a transistor?
+A: A transistor is an electronic component that can amplify or switch electronic signals.
+
+Q: What is a diode?
+A: A diode is an electronic component that allows current to flow in only one direction.
+
+Q: What is a laser?
+A: A laser is a device that produces a narrow, intense beam of coherent light.
+
+Q: What is nuclear energy?
+A: Nuclear energy is the energy that is released when the nucleus of an atom is split or fused.
+
+Q: What is radioactivity?
+A: Radioactivity is the spontaneous emission of radiation from the nucleus of an unstable atom.
+
+Q: What is a half-life?
+A: A half-life is the time it takes for half of the atoms in a sample of a radioactive substance to decay.
+
+Q: What is the difference between fusion and fission?
+A: Fusion is the process of combining two or more atomic nuclei into a single, more massive nucleus, while fission is the process of splitting a single atomic nucleus into two or more smaller nuclei.

@@ -1,0 +1,119 @@
+Q: What is immunology?
+A: Immunology is the study of the immune system and its functions.
+
+Q: What is the immune system?
+A: The immune system is a complex network of cells, tissues, and organs that work together to defend the body against harmful invaders.
+
+Q: What are the primary cells of the immune system?
+A: The primary cells of the immune system are white blood cells, also known as leukocytes.
+
+Q: What are the two main types of leukocytes?
+A: The two main types of leukocytes are lymphocytes and phagocytes.
+
+Q: What are lymphocytes?
+A: Lymphocytes are a type of white blood cell that are responsible for recognizing and attacking specific foreign invaders.
+
+Q: What are phagocytes?
+A: Phagocytes are a type of white blood cell that engulf and destroy foreign invaders.
+
+Q: What is an antigen?
+A: An antigen is a foreign substance that triggers an immune response.
+
+Q: What is an antibody?
+A: An antibody is a protein produced by the immune system in response to an antigen.
+
+Q: What is the role of antibodies in the immune system?
+A: Antibodies bind to antigens and mark them for destruction by other immune cells.
+
+Q: What is the difference between innate and adaptive immunity?
+A: Innate immunity is the first line of defense against foreign invaders and is present from birth, while adaptive immunity develops over time in response to specific antigens.
+
+Q: What are the primary organs of the immune system?
+A: The primary organs of the immune system are the bone marrow, thymus, spleen, and lymph nodes.
+
+Q: What is the role of the bone marrow in the immune system?
+A: The bone marrow is responsible for producing all of the blood cells, including the white blood cells of the immune system.
+
+Q: What is the role of the thymus in the immune system?
+A: The thymus is responsible for the maturation of T lymphocytes.
+
+Q: What is the role of the spleen in the immune system?
+A: The spleen filters the blood and removes old or damaged red blood cells and foreign invaders.
+
+Q: What is the role of lymph nodes in the immune system?
+A: Lymph nodes filter lymphatic fluid and trap foreign invaders, allowing immune cells to attack and destroy them.
+
+Q: What is inflammation?
+A: Inflammation is a natural response of the immune system to injury or infection, characterized by redness, swelling, heat, and pain.
+
+Q: What is the purpose of inflammation?
+A: Inflammation helps to isolate and destroy foreign invaders, as well as promote tissue repair.
+
+Q: What is an autoimmune disease?
+A: An autoimmune disease is a condition in which the immune system attacks the body's own tissues and organs.
+
+Q: What is an allergy?
+A: An allergy is an exaggerated immune response to a harmless substance, such as pollen or food.
+
+Q: What is a vaccine?
+A: A vaccine is a substance that stimulates the immune system to produce an immune response to a specific antigen, without causing disease.
+
+Q: What is herd immunity?
+A: Herd immunity is the resistance to the spread of a contagious disease within a population that results when a high percentage of individuals are immune to the disease.
+
+Q: What is immunodeficiency?
+A: Immunodeficiency is a condition in which the immune system is unable to function properly, leaving the body vulnerable to infections and diseases.
+
+Q: What is HIV?
+A: HIV is a virus that attacks the immune system, specifically the CD4 cells, and can lead to AIDS.
+
+Q: What is AIDS?
+A: AIDS is a condition caused by the human immunodeficiency virus (HIV) that weakens the immune system, making the body vulnerable to infections and diseases.
+
+Q: What is a cytokine?
+A: A cytokine is a protein that is produced by immune cells and plays a role in cell signaling and communication.
+
+Q: What is a complement system?
+A: The complement system is a group of proteins that work together to destroy foreign invaders.
+
+Q: What is a natural killer cell?
+A: A natural killer cell is a type of lymphocyte that is responsible for recognizing and destroying infected or cancerous cells.
+
+Q: What is a dendritic cell?
+A: A dendritic cell is a type of phagocyte that is responsible for presenting antigens to T cells, initiating an immune response.
+
+Q: What is a macrophage?
+A: A macrophage is a type of phagocyte that engulfs and destroys foreign invaders, as well as dead or damaged cells.
+
+Q: What is a B cell?
+A: A B cell is a type of lymphocyte that is responsible for producing antibodies in response to an antigen.
+
+Q: What is a T cell?
+A: A T cell is a type of lymphocyte that is responsible for recognizing and attacking infected or cancerous cells.
+
+Q: What is a memory cell?
+A: A memory cell is a type of lymphocyte that is responsible for "remembering" a specific antigen and mounting a rapid immune response upon re-exposure.
+
+Q: What is a hypersensitivity reaction?
+A: A hypersensitivity reaction is an exaggerated immune response to a harmless substance, such as pollen or food, that can lead to allergy symptoms.
+
+Q: What is anaphylaxis?
+A: Anaphylaxis is a severe, life-threatening allergic reaction that can cause difficulty breathing, swelling, and a drop in blood pressure.
+
+Q: What is immunotherapy?
+A: Immunotherapy is a type of treatment that uses the immune system to fight cancer or other diseases.
+
+Q: What is a monoclonal antibody?
+A: A monoclonal antibody is a laboratory-produced antibody that is designed to target a specific antigen.
+
+Q: What is a cytokine storm?
+A: A cytokine storm is an overactive immune response in which the immune system produces an excessive amount of cytokines, leading to inflammation and tissue damage.
+
+Q: What is a lymphoma?
+A: A lymphoma is a type of cancer that affects the lymphatic system, specifically the lymphocytes.
+
+Q: What is a leukemia?
+A: A leukemia is a type of cancer that affects the blood and bone marrow, specifically the white blood cells.
+
+Q: What is a myeloma?
+A: A myeloma is a type of cancer that affects the plasma cells, which are a type of white blood cell that produce antibodies.

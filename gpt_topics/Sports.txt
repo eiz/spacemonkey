@@ -1,0 +1,152 @@
+Q: What is the most popular sport in the world?
+A: Soccer (football)
+
+Q: How many players are on a basketball team?
+A: Five
+
+Q: What is the highest score possible in a single turn in bowling?
+A: 300
+
+Q: What is the name of the biggest tennis tournament in the world?
+A: Wimbledon
+
+Q: How many players are on a soccer team?
+A: Eleven
+
+Q: What is the name of the biggest cycling race in the world?
+A: Tour de France
+
+Q: How many innings are in a baseball game?
+A: Nine
+
+Q: What is the name of the biggest golf tournament in the world?
+A: The Masters
+
+Q: How many players are on a volleyball team?
+A: Six
+
+Q: What is the name of the biggest American football game of the year?
+A: The Super Bowl
+
+Q: How many players are on an ice hockey team?
+A: Six
+
+Q: What is the name of the biggest horse race in the world?
+A: The Kentucky Derby
+
+Q: How many players are on a field hockey team?
+A: Eleven
+
+Q: What is the name of the biggest cricket tournament in the world?
+A: The Cricket World Cup
+
+Q: How many players are on a water polo team?
+A: Seven
+
+Q: What is the name of the biggest rugby tournament in the world?
+A: The Rugby World Cup
+
+Q: How many players are on a handball team?
+A: Seven
+
+Q: What is the name of the biggest swimming competition in the world?
+A: The Olympics
+
+Q: How many players are on a lacrosse team?
+A: Ten
+
+Q: What is the name of the biggest track and field competition in the world?
+A: The Olympics
+
+Q: How many players are on a field lacrosse team?
+A: Ten
+
+Q: What is the name of the biggest surfing competition in the world?
+A: The World Surf League Championship Tour
+
+Q: How many players are on a beach volleyball team?
+A: Two
+
+Q: What is the name of the biggest snowboarding competition in the world?
+A: The Winter X Games
+
+Q: How many players are on a rugby sevens team?
+A: Seven
+
+Q: What is the name of the biggest skateboarding competition in the world?
+A: The Vans Skateboarding Park Series
+
+Q: How many players are on a netball team?
+A: Seven
+
+Q: What is the name of the biggest gymnastics competition in the world?
+A: The Olympics
+
+Q: How many players are on a softball team?
+A: Ten
+
+Q: What is the name of the biggest triathlon competition in the world?
+A: The Ironman World Championship
+
+Q: How many players are on a roller derby team?
+A: Five
+
+Q: What is the name of the biggest rowing competition in the world?
+A: The Olympics
+
+Q: How many players are on a ultimate frisbee team?
+A: Seven
+
+Q: What is the name of the biggest mixed martial arts competition in the world?
+A: The Ultimate Fighting Championship (UFC)
+
+Q: How many players are on a quidditch team?
+A: Seven
+
+Q: What is the name of the biggest boxing competition in the world?
+A: The World Boxing Council (WBC) Championship
+
+Q: How many players are on a korfball team?
+A: Eight
+
+Q: What is the name of the biggest weightlifting competition in the world?
+A: The Olympics
+
+Q: How many players are on a curling team?
+A: Four
+
+Q: What is the name of the biggest archery competition in the world?
+A: The Olympics
+
+Q: How many players are on a badminton team?
+A: One or two
+
+Q: What is the name of the biggest fencing competition in the world?
+A: The Olympics
+
+Q: How many players are on a table tennis team?
+A: One or two
+
+Q: What is the name of the biggest taekwondo competition in the world?
+A: The Olympics
+
+Q: How many players are on a handball beach team?
+A: Four
+
+Q: What is the name of the biggest judo competition in the world?
+A: The Olympics
+
+Q: How many players are on a korfball beach team?
+A: Four
+
+Q: What is the name of the biggest karate competition in the world?
+A: The World Karate Federation (WKF) Championship
+
+Q: How many players are on a petanque team?
+A: One, two, or three
+
+Q: What is the name of the biggest canoeing competition in the world?
+A: The Olympics
+
+Q: How many players are on a sepak takraw team?
+A: Three
